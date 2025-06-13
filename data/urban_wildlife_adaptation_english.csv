@@ -1,0 +1,1001 @@
+Animal_ID,Species,Observation_Time,Location_Type,Noise_Level_dB,Human_Density,Food_Source_Score,Shelter_Quality_Score,Behavior_Anomaly_Score,Estimated_Daily_Distance_km,Adaptation_Signal
+HAYVAN_0001,Tilki,Gece,Ticari,46.3,51.6,9,4,0.36,0.42,Yenilikçilik
+HAYVAN_0002,Güvercin,Gece,Konut,51.5,59.0,6,8,0.16,0.27,Sömürü
+HAYVAN_0003,Rakun,Öğleden Sonra,Ticari,75.9,59.1,7,1,0.1,0.66,Kaçınma
+HAYVAN_0004,Güvercin,Öğleden Sonra,Konut,71.9,30.8,7,8,0.05,0.99,Alışkanlık
+HAYVAN_0005,Tilki,Gece,Park,52.8,27.9,4,7,0.25,0.64,Sömürü
+HAYVAN_0006,Güvercin,Akşam,Konut,77.9,28.8,8,3,0.26,0.56,Sömürü
+HAYVAN_0007,Sincap,Öğleden Sonra,Endüstriyel,54.1,-10.1,7,5,0.3,1.4,Kaçınma
+HAYVAN_0008,Tilki,Öğleden Sonra,Park,65.2,40.5,5,6,0.19,1.41,Alışkanlık
+HAYVAN_0009,Güvercin,Gece,Ticari,60.2,65.2,6,10,0.31,1.33,Kaçınma
+HAYVAN_0010,Güvercin,Sabah,Konut,55.8,38.5,4,3,0.24,4.22,Yenilikçilik
+HAYVAN_0011,Güvercin,Öğleden Sonra,Konut,76.7,8.7,9,3,0.41,3.36,Kaçınma
+HAYVAN_0012,Tilki,Akşam,Konut,81.8,15.1,1,3,0.37,0.8,Kaçınma
+HAYVAN_0013,Güvercin,Sabah,Ticari,66.8,15.9,3,7,0.28,1.64,Kaçınma
+HAYVAN_0014,Rakun,Gece,Endüstriyel,80.3,54.9,4,5,0.36,0.63,Kaçınma
+HAYVAN_0015,Güvercin,Öğleden Sonra,Ticari,62.2,37.5,4,2,0.23,1.08,Alışkanlık
+HAYVAN_0016,Tilki,Sabah,Konut,66.1,39.6,9,4,0.1,0.15,Alışkanlık
+HAYVAN_0017,Rakun,Gece,Park,66.3,35.3,2,3,0.08,0.66,Kaçınma
+HAYVAN_0018,Rakun,Akşam,Konut,53.4,13.3,2,6,0.2,1.55,Alışkanlık
+HAYVAN_0019,Güvercin,Öğleden Sonra,Park,70.0,15.8,1,4,0.31,0.9,Sömürü
+HAYVAN_0020,Güvercin,Gece,Konut,72.1,40.2,7,6,0.1,0.34,Yenilikçilik
+HAYVAN_0021,Tilki,Öğleden Sonra,Endüstriyel,63.3,31.3,10,10,0.09,0.06,Sömürü
+HAYVAN_0022,Sincap,Öğleden Sonra,Endüstriyel,48.1,2.1,9,2,0.38,1.26,Kaçınma
+HAYVAN_0023,Tilki,Akşam,Ticari,68.7,41.8,1,1,0.27,1.68,Sömürü
+HAYVAN_0024,Tilki,Sabah,Endüstriyel,49.8,51.3,2,9,0.28,1.95,Alışkanlık
+HAYVAN_0025,Tilki,Akşam,Park,56.9,30.1,10,3,0.19,0.18,Alışkanlık
+HAYVAN_0026,Güvercin,Öğleden Sonra,Ticari,66.3,25.3,10,1,0.26,2.84,Yenilikçilik
+HAYVAN_0027,Güvercin,Akşam,Endüstriyel,57.3,50.5,9,1,0.44,0.02,Sömürü
+HAYVAN_0028,Rakun,Öğleden Sonra,Konut,67.5,27.1,1,1,0.32,1.24,Yenilikçilik
+HAYVAN_0029,Güvercin,Akşam,Endüstriyel,62.7,20.8,1,5,0.51,2.12,Kaçınma
+HAYVAN_0030,Tilki,Öğleden Sonra,Ticari,48.7,6.9,4,1,0.18,0.52,Kaçınma
+HAYVAN_0031,Rakun,Akşam,Endüstriyel,66.7,22.6,5,10,0.23,0.06,Yenilikçilik
+HAYVAN_0032,Güvercin,Gece,Park,70.9,58.0,2,4,0.26,2.1,Alışkanlık
+HAYVAN_0033,Güvercin,Akşam,Park,75.1,47.5,3,4,0.4,1.04,Sömürü
+HAYVAN_0034,Güvercin,Sabah,Park,61.3,31.8,4,3,0.1,3.27,Yenilikçilik
+HAYVAN_0035,Güvercin,Gece,Park,64.4,29.9,4,2,0.69,3.61,Yenilikçilik
+HAYVAN_0036,Güvercin,Gece,Park,50.0,44.8,4,9,0.63,3.77,Sömürü
+HAYVAN_0037,Güvercin,Akşam,Ticari,84.6,31.5,10,4,0.25,7.64,Sömürü
+HAYVAN_0038,Sincap,Akşam,Endüstriyel,80.1,11.0,9,8,0.53,1.33,Alışkanlık
+HAYVAN_0039,Sincap,Öğleden Sonra,Ticari,64.7,32.2,4,4,0.15,0.28,Kaçınma
+HAYVAN_0040,Güvercin,Sabah,Endüstriyel,63.8,32.6,6,8,0.51,1.23,Alışkanlık
+HAYVAN_0041,Tilki,Akşam,Park,35.7,30.2,6,6,0.42,0.06,Alışkanlık
+HAYVAN_0042,Rakun,Sabah,Konut,75.4,33.9,1,6,0.21,0.07,Sömürü
+HAYVAN_0043,Güvercin,Öğleden Sonra,Konut,70.6,19.6,3,9,0.13,1.14,Sömürü
+HAYVAN_0044,Güvercin,Sabah,Konut,73.1,32.3,4,5,0.35,1.43,Kaçınma
+HAYVAN_0045,Sincap,Gece,Endüstriyel,60.9,6.0,8,4,0.09,1.27,Yenilikçilik
+HAYVAN_0046,Güvercin,Öğleden Sonra,Endüstriyel,60.3,16.2,5,9,0.25,1.87,Kaçınma
+HAYVAN_0047,Güvercin,Gece,Ticari,52.6,26.3,7,5,0.15,1.11,Yenilikçilik
+HAYVAN_0048,Sincap,Sabah,Ticari,72.8,39.0,7,7,0.23,0.67,Sömürü
+HAYVAN_0049,Güvercin,Gece,Endüstriyel,77.5,25.5,3,10,0.43,0.63,Kaçınma
+HAYVAN_0050,Tilki,Gece,Park,76.2,36.6,8,8,0.16,1.87,Kaçınma
+HAYVAN_0051,Rakun,Öğleden Sonra,Park,66.9,45.3,1,3,0.26,0.6,Sömürü
+HAYVAN_0052,Sincap,Gece,Park,61.7,66.3,2,1,0.1,0.08,Yenilikçilik
+HAYVAN_0053,Tilki,Gece,Konut,54.5,25.6,4,10,0.39,0.38,Kaçınma
+HAYVAN_0054,Güvercin,Öğleden Sonra,Ticari,58.0,20.3,8,6,0.22,2.41,Alışkanlık
+HAYVAN_0055,Güvercin,Gece,Konut,69.7,30.6,4,1,0.31,1.07,Sömürü
+HAYVAN_0056,Güvercin,Sabah,Ticari,62.2,33.0,3,8,0.53,0.47,Kaçınma
+HAYVAN_0057,Güvercin,Gece,Park,81.4,38.2,6,3,0.61,1.31,Kaçınma
+HAYVAN_0058,Tilki,Sabah,Park,76.5,42.2,4,8,0.13,0.65,Kaçınma
+HAYVAN_0059,Sincap,Öğleden Sonra,Park,59.0,25.8,4,1,0.25,3.39,Alışkanlık
+HAYVAN_0060,Güvercin,Öğleden Sonra,Konut,52.8,40.9,2,2,0.05,0.82,Sömürü
+HAYVAN_0061,Tilki,Gece,Park,59.5,31.2,6,7,0.24,1.53,Kaçınma
+HAYVAN_0062,Güvercin,Öğleden Sonra,Park,75.7,48.4,3,5,0.12,0.91,Sömürü
+HAYVAN_0063,Tilki,Öğleden Sonra,Konut,59.8,25.8,9,10,0.29,0.95,Sömürü
+HAYVAN_0064,Tilki,Akşam,Park,70.5,32.1,7,5,0.38,0.91,Yenilikçilik
+HAYVAN_0065,Sincap,Sabah,Park,59.3,34.1,6,9,0.31,0.36,Yenilikçilik
+HAYVAN_0066,Rakun,Gece,Konut,68.4,47.0,1,10,0.31,3.56,Alışkanlık
+HAYVAN_0067,Tilki,Gece,Endüstriyel,70.3,29.9,10,5,0.32,0.9,Kaçınma
+HAYVAN_0068,Rakun,Öğleden Sonra,Ticari,74.9,14.5,7,9,0.07,4.52,Alışkanlık
+HAYVAN_0069,Rakun,Akşam,Park,79.3,4.6,10,1,0.25,1.77,Yenilikçilik
+HAYVAN_0070,Güvercin,Öğleden Sonra,Park,78.1,45.5,3,1,0.27,1.57,Sömürü
+HAYVAN_0071,Rakun,Gece,Konut,59.7,39.6,9,2,0.17,1.05,Yenilikçilik
+HAYVAN_0072,Sincap,Öğleden Sonra,Endüstriyel,63.5,54.9,3,9,0.53,5.2,Yenilikçilik
+HAYVAN_0073,Tilki,Akşam,Konut,53.3,31.4,2,6,0.11,0.61,Sömürü
+HAYVAN_0074,Tilki,Öğleden Sonra,Endüstriyel,62.6,31.3,5,7,0.44,1.95,Alışkanlık
+HAYVAN_0075,Rakun,Akşam,Konut,65.2,32.7,10,1,0.55,0.36,Sömürü
+HAYVAN_0076,Güvercin,Akşam,Konut,61.0,22.0,10,8,0.12,0.47,Yenilikçilik
+HAYVAN_0077,Güvercin,Öğleden Sonra,Endüstriyel,60.0,19.4,1,3,0.55,1.21,Kaçınma
+HAYVAN_0078,Rakun,Gece,Endüstriyel,75.3,36.6,4,8,0.39,0.64,Kaçınma
+HAYVAN_0079,Rakun,Akşam,Ticari,74.1,47.7,10,4,0.24,1.03,Alışkanlık
+HAYVAN_0080,Tilki,Gece,Konut,69.0,39.1,1,6,0.12,0.38,Alışkanlık
+HAYVAN_0081,Güvercin,Akşam,Park,52.2,22.8,5,2,0.64,0.6,Sömürü
+HAYVAN_0082,Tilki,Gece,Park,67.0,36.4,3,7,0.16,0.38,Alışkanlık
+HAYVAN_0083,Güvercin,Gece,Endüstriyel,61.2,32.6,4,4,0.45,0.24,Sömürü
+HAYVAN_0084,Güvercin,Öğleden Sonra,Ticari,78.2,21.5,9,6,0.43,1.28,Alışkanlık
+HAYVAN_0085,Sincap,Öğleden Sonra,Konut,47.0,11.7,8,5,0.32,0.16,Alışkanlık
+HAYVAN_0086,Sincap,Gece,Ticari,59.4,17.5,3,6,0.34,1.99,Alışkanlık
+HAYVAN_0087,Güvercin,Öğleden Sonra,Endüstriyel,59.1,47.9,9,10,0.28,4.11,Alışkanlık
+HAYVAN_0088,Rakun,Akşam,Endüstriyel,60.3,33.8,2,10,0.03,1.86,Sömürü
+HAYVAN_0089,Güvercin,Gece,Endüstriyel,74.6,20.9,1,8,0.3,0.71,Alışkanlık
+HAYVAN_0090,Güvercin,Sabah,Ticari,41.5,31.1,7,8,0.33,0.3,Alışkanlık
+HAYVAN_0091,Tilki,Gece,Park,62.9,39.2,6,1,0.32,3.33,Sömürü
+HAYVAN_0092,Sincap,Akşam,Park,73.5,21.9,7,7,0.35,2.0,Kaçınma
+HAYVAN_0093,Güvercin,Akşam,Park,74.8,18.5,1,1,0.59,0.44,Alışkanlık
+HAYVAN_0094,Tilki,Akşam,Ticari,59.5,3.4,9,4,0.39,2.87,Kaçınma
+HAYVAN_0095,Güvercin,Akşam,Konut,58.2,46.3,10,10,0.37,0.49,Alışkanlık
+HAYVAN_0096,Tilki,Gece,Ticari,68.5,38.8,3,7,0.21,0.53,Kaçınma
+HAYVAN_0097,Rakun,Öğleden Sonra,Park,66.5,40.0,1,1,0.48,0.99,Kaçınma
+HAYVAN_0098,Güvercin,Akşam,Endüstriyel,65.7,38.4,8,9,0.14,2.41,Alışkanlık
+HAYVAN_0099,Rakun,Gece,Endüstriyel,27.0,-0.4,4,1,0.27,0.27,Sömürü
+HAYVAN_0100,Güvercin,Gece,Park,53.7,31.6,7,2,0.34,0.26,Sömürü
+HAYVAN_0101,Güvercin,Gece,Konut,56.4,36.7,2,2,0.43,0.17,Yenilikçilik
+HAYVAN_0102,Tilki,Akşam,Endüstriyel,71.4,31.1,7,6,0.27,1.49,Kaçınma
+HAYVAN_0103,Rakun,Sabah,Konut,50.6,-5.3,8,9,0.37,0.94,Kaçınma
+HAYVAN_0104,Rakun,Akşam,Endüstriyel,54.5,28.1,2,2,0.06,1.71,Alışkanlık
+HAYVAN_0105,Güvercin,Gece,Park,63.5,26.1,8,4,0.73,0.2,Sömürü
+HAYVAN_0106,Tilki,Akşam,Ticari,52.1,45.6,9,4,0.56,0.67,Alışkanlık
+HAYVAN_0107,Sincap,Öğleden Sonra,Ticari,71.4,28.4,1,3,0.05,1.0,Sömürü
+HAYVAN_0108,Güvercin,Sabah,Konut,61.1,22.2,8,1,0.11,2.03,Yenilikçilik
+HAYVAN_0109,Sincap,Sabah,Park,83.3,22.2,3,1,0.12,4.24,Sömürü
+HAYVAN_0110,Güvercin,Akşam,Endüstriyel,58.7,40.8,8,10,0.15,1.13,Sömürü
+HAYVAN_0111,Güvercin,Sabah,Konut,59.2,40.1,4,9,0.44,5.03,Alışkanlık
+HAYVAN_0112,Güvercin,Sabah,Park,73.0,26.8,8,2,0.24,3.01,Sömürü
+HAYVAN_0113,Rakun,Gece,Ticari,58.4,24.0,6,2,0.32,0.58,Kaçınma
+HAYVAN_0114,Sincap,Gece,Ticari,80.1,-4.5,3,10,0.54,0.76,Yenilikçilik
+HAYVAN_0115,Güvercin,Sabah,Ticari,69.8,-0.6,5,8,0.11,1.19,Yenilikçilik
+HAYVAN_0116,Güvercin,Akşam,Konut,62.0,17.5,8,2,0.08,0.21,Kaçınma
+HAYVAN_0117,Güvercin,Sabah,Ticari,63.4,27.8,10,2,0.19,1.07,Alışkanlık
+HAYVAN_0118,Güvercin,Gece,Konut,93.5,18.1,3,2,0.56,0.94,Kaçınma
+HAYVAN_0119,Rakun,Gece,Endüstriyel,69.9,7.3,10,4,0.19,0.45,Alışkanlık
+HAYVAN_0120,Sincap,Sabah,Ticari,66.5,29.4,3,5,0.27,6.04,Alışkanlık
+HAYVAN_0121,Sincap,Sabah,Ticari,63.7,29.7,10,4,0.45,0.44,Sömürü
+HAYVAN_0122,Rakun,Öğleden Sonra,Ticari,75.4,49.6,1,10,0.36,1.42,Alışkanlık
+HAYVAN_0123,Güvercin,Öğleden Sonra,Ticari,49.8,24.6,2,10,0.18,0.16,Alışkanlık
+HAYVAN_0124,Güvercin,Akşam,Endüstriyel,63.2,26.5,4,2,0.49,0.9,Alışkanlık
+HAYVAN_0125,Sincap,Gece,Konut,36.7,19.2,2,5,0.17,3.12,Kaçınma
+HAYVAN_0126,Sincap,Gece,Endüstriyel,59.7,69.1,1,5,0.2,0.8,Kaçınma
+HAYVAN_0127,Güvercin,Gece,Park,73.5,39.7,1,7,0.29,0.07,Kaçınma
+HAYVAN_0128,Güvercin,Öğleden Sonra,Endüstriyel,78.8,17.6,4,4,0.56,0.6,Alışkanlık
+HAYVAN_0129,Sincap,Akşam,Konut,71.1,0.5,7,6,0.32,1.45,Kaçınma
+HAYVAN_0130,Güvercin,Gece,Park,71.4,10.7,3,4,0.19,4.83,Sömürü
+HAYVAN_0131,Tilki,Öğleden Sonra,Ticari,47.8,16.2,5,4,0.26,0.69,Sömürü
+HAYVAN_0132,Rakun,Akşam,Ticari,58.2,9.6,9,2,0.51,0.02,Kaçınma
+HAYVAN_0133,Tilki,Sabah,Ticari,79.7,28.2,1,9,0.68,2.84,Kaçınma
+HAYVAN_0134,Sincap,Sabah,Park,59.8,14.7,8,5,0.2,0.3,Kaçınma
+HAYVAN_0135,Sincap,Sabah,Konut,63.6,5.9,7,2,0.6,7.04,Sömürü
+HAYVAN_0136,Rakun,Öğleden Sonra,Park,56.9,39.6,5,4,0.22,0.39,Alışkanlık
+HAYVAN_0137,Güvercin,Sabah,Ticari,55.7,6.9,7,3,0.55,1.61,Yenilikçilik
+HAYVAN_0138,Rakun,Sabah,Ticari,60.3,-8.3,1,4,0.15,0.15,Alışkanlık
+HAYVAN_0139,Güvercin,Akşam,Ticari,58.4,44.1,7,2,0.55,0.16,Alışkanlık
+HAYVAN_0140,Güvercin,Sabah,Park,74.6,56.9,7,7,0.08,0.06,Alışkanlık
+HAYVAN_0141,Rakun,Sabah,Park,67.2,30.6,2,3,0.56,1.15,Yenilikçilik
+HAYVAN_0142,Güvercin,Öğleden Sonra,Konut,75.2,40.3,6,3,0.17,1.46,Sömürü
+HAYVAN_0143,Sincap,Öğleden Sonra,Ticari,51.1,40.1,3,9,0.21,0.43,Sömürü
+HAYVAN_0144,Güvercin,Öğleden Sonra,Park,77.3,65.3,4,6,0.22,2.7,Alışkanlık
+HAYVAN_0145,Güvercin,Sabah,Park,65.2,15.1,3,7,0.39,2.66,Kaçınma
+HAYVAN_0146,Tilki,Akşam,Endüstriyel,83.4,23.2,7,5,0.34,0.88,Alışkanlık
+HAYVAN_0147,Tilki,Gece,Ticari,64.5,23.4,10,9,0.19,0.82,Kaçınma
+HAYVAN_0148,Rakun,Öğleden Sonra,Ticari,50.1,30.8,6,7,0.22,0.06,Yenilikçilik
+HAYVAN_0149,Tilki,Akşam,Park,77.8,26.9,8,10,0.63,1.19,Yenilikçilik
+HAYVAN_0150,Sincap,Sabah,Endüstriyel,63.6,28.8,6,5,0.17,3.93,Sömürü
+HAYVAN_0151,Rakun,Öğleden Sonra,Ticari,43.5,32.1,7,8,0.08,1.81,Kaçınma
+HAYVAN_0152,Tilki,Akşam,Ticari,66.5,59.7,2,10,0.11,3.07,Yenilikçilik
+HAYVAN_0153,Güvercin,Gece,Ticari,67.3,34.1,9,4,0.13,2.07,Yenilikçilik
+HAYVAN_0154,Güvercin,Akşam,Park,75.8,42.4,9,2,0.2,0.56,Sömürü
+HAYVAN_0155,Tilki,Sabah,Park,29.1,40.0,7,7,0.62,1.23,Yenilikçilik
+HAYVAN_0156,Rakun,Öğleden Sonra,Konut,76.5,35.3,5,6,0.09,0.98,Yenilikçilik
+HAYVAN_0157,Tilki,Akşam,Konut,60.3,26.0,9,8,0.32,0.94,Sömürü
+HAYVAN_0158,Sincap,Akşam,Ticari,84.3,42.1,3,3,0.38,4.33,Alışkanlık
+HAYVAN_0159,Tilki,Akşam,Endüstriyel,47.8,3.7,5,4,0.12,0.12,Alışkanlık
+HAYVAN_0160,Güvercin,Öğleden Sonra,Ticari,70.5,53.1,6,9,0.35,5.27,Alışkanlık
+HAYVAN_0161,Güvercin,Akşam,Endüstriyel,69.1,40.0,5,2,0.16,0.26,Alışkanlık
+HAYVAN_0162,Tilki,Sabah,Park,60.8,31.5,7,2,0.15,0.24,Sömürü
+HAYVAN_0163,Güvercin,Sabah,Konut,57.3,29.8,1,6,0.59,1.25,Alışkanlık
+HAYVAN_0164,Rakun,Gece,Park,61.3,33.3,3,2,0.12,0.64,Alışkanlık
+HAYVAN_0165,Güvercin,Gece,Endüstriyel,61.5,42.2,8,9,0.17,3.68,Kaçınma
+HAYVAN_0166,Sincap,Gece,Endüstriyel,52.5,36.9,5,6,0.59,0.45,Kaçınma
+HAYVAN_0167,Güvercin,Öğleden Sonra,Konut,74.9,50.5,9,10,0.4,0.81,Sömürü
+HAYVAN_0168,Sincap,Sabah,Park,54.1,55.7,2,6,0.45,0.08,Alışkanlık
+HAYVAN_0169,Tilki,Sabah,Ticari,75.2,46.4,4,5,0.17,2.41,Alışkanlık
+HAYVAN_0170,Güvercin,Gece,Park,47.1,7.6,5,10,0.17,0.36,Yenilikçilik
+HAYVAN_0171,Tilki,Gece,Endüstriyel,63.2,22.2,5,4,0.22,1.03,Yenilikçilik
+HAYVAN_0172,Rakun,Akşam,Park,63.4,44.7,4,1,0.13,1.7,Alışkanlık
+HAYVAN_0173,Sincap,Gece,Konut,64.8,62.0,1,9,0.22,0.05,Alışkanlık
+HAYVAN_0174,Sincap,Öğleden Sonra,Park,74.6,21.2,9,3,0.43,1.2,Sömürü
+HAYVAN_0175,Sincap,Gece,Park,63.0,39.0,6,5,0.18,1.54,Alışkanlık
+HAYVAN_0176,Rakun,Sabah,Endüstriyel,60.4,48.4,5,1,0.12,0.41,Alışkanlık
+HAYVAN_0177,Rakun,Öğleden Sonra,Ticari,63.0,31.6,4,1,0.23,0.46,Sömürü
+HAYVAN_0178,Rakun,Akşam,Ticari,74.8,11.7,1,3,0.4,1.47,Kaçınma
+HAYVAN_0179,Güvercin,Öğleden Sonra,Konut,52.9,59.3,9,8,0.51,1.6,Kaçınma
+HAYVAN_0180,Güvercin,Akşam,Konut,54.8,17.0,10,5,0.52,0.17,Sömürü
+HAYVAN_0181,Güvercin,Akşam,Park,45.4,18.9,8,4,0.15,1.49,Kaçınma
+HAYVAN_0182,Rakun,Sabah,Ticari,85.3,34.0,4,1,0.71,2.85,Yenilikçilik
+HAYVAN_0183,Rakun,Öğleden Sonra,Konut,53.4,30.8,8,8,0.24,1.29,Alışkanlık
+HAYVAN_0184,Sincap,Akşam,Ticari,46.1,16.2,5,2,0.27,2.66,Alışkanlık
+HAYVAN_0185,Güvercin,Öğleden Sonra,Endüstriyel,56.9,55.1,3,1,0.17,3.4,Kaçınma
+HAYVAN_0186,Sincap,Akşam,Konut,58.9,37.8,4,5,0.17,1.67,Yenilikçilik
+HAYVAN_0187,Rakun,Gece,Ticari,79.7,43.6,5,5,0.23,2.11,Sömürü
+HAYVAN_0188,Güvercin,Gece,Ticari,60.4,29.4,6,8,0.21,0.01,Kaçınma
+HAYVAN_0189,Sincap,Öğleden Sonra,Ticari,67.9,29.9,7,7,0.32,0.24,Sömürü
+HAYVAN_0190,Güvercin,Öğleden Sonra,Endüstriyel,47.1,49.8,2,5,0.34,1.67,Kaçınma
+HAYVAN_0191,Rakun,Akşam,Park,67.1,22.2,1,9,0.38,2.26,Alışkanlık
+HAYVAN_0192,Tilki,Akşam,Konut,48.5,24.7,2,3,0.11,1.34,Yenilikçilik
+HAYVAN_0193,Güvercin,Akşam,Ticari,61.9,37.0,1,2,0.17,3.51,Alışkanlık
+HAYVAN_0194,Tilki,Sabah,Ticari,57.4,43.6,4,5,0.13,5.56,Yenilikçilik
+HAYVAN_0195,Rakun,Sabah,Konut,65.6,43.6,1,6,0.22,0.31,Kaçınma
+HAYVAN_0196,Tilki,Öğleden Sonra,Konut,71.3,15.9,8,7,0.64,2.81,Alışkanlık
+HAYVAN_0197,Rakun,Öğleden Sonra,Endüstriyel,51.6,13.7,7,3,0.33,1.96,Yenilikçilik
+HAYVAN_0198,Tilki,Gece,Park,53.6,17.3,1,7,0.23,0.94,Alışkanlık
+HAYVAN_0199,Güvercin,Gece,Ticari,66.9,43.3,5,3,0.17,0.82,Kaçınma
+HAYVAN_0200,Rakun,Öğleden Sonra,Konut,71.9,43.2,1,10,0.24,0.07,Yenilikçilik
+HAYVAN_0201,Güvercin,Akşam,Park,79.2,34.8,6,10,0.15,0.92,Kaçınma
+HAYVAN_0202,Rakun,Sabah,Park,60.3,34.5,6,5,0.3,1.14,Sömürü
+HAYVAN_0203,Tilki,Öğleden Sonra,Park,50.1,5.2,6,2,0.33,1.12,Yenilikçilik
+HAYVAN_0204,Sincap,Öğleden Sonra,Park,66.9,34.8,4,3,0.41,2.28,Alışkanlık
+HAYVAN_0205,Tilki,Gece,Ticari,57.1,6.4,4,3,0.4,1.86,Kaçınma
+HAYVAN_0206,Güvercin,Öğleden Sonra,Park,55.8,42.4,9,6,0.74,2.13,Kaçınma
+HAYVAN_0207,Rakun,Gece,Ticari,79.1,25.3,4,8,0.19,0.25,Alışkanlık
+HAYVAN_0208,Tilki,Sabah,Konut,71.2,33.6,9,4,0.62,1.23,Alışkanlık
+HAYVAN_0209,Tilki,Öğleden Sonra,Ticari,57.7,26.8,2,10,0.47,0.03,Sömürü
+HAYVAN_0210,Rakun,Sabah,Park,64.8,28.8,7,7,0.17,0.62,Yenilikçilik
+HAYVAN_0211,Tilki,Gece,Konut,64.1,13.3,5,10,0.33,0.59,Sömürü
+HAYVAN_0212,Güvercin,Akşam,Ticari,66.7,27.5,1,7,0.23,5.46,Sömürü
+HAYVAN_0213,Güvercin,Akşam,Ticari,60.9,29.1,4,2,0.37,2.5,Sömürü
+HAYVAN_0214,Tilki,Sabah,Konut,46.0,33.1,3,5,0.1,1.16,Alışkanlık
+HAYVAN_0215,Güvercin,Akşam,Ticari,55.2,38.2,7,4,0.25,3.28,Alışkanlık
+HAYVAN_0216,Güvercin,Sabah,Endüstriyel,59.7,37.2,8,3,0.25,0.04,Alışkanlık
+HAYVAN_0217,Rakun,Akşam,Park,65.3,34.0,10,10,0.35,1.04,Kaçınma
+HAYVAN_0218,Güvercin,Öğleden Sonra,Konut,54.2,20.2,5,6,0.46,0.22,Sömürü
+HAYVAN_0219,Sincap,Gece,Park,66.9,10.5,10,6,0.24,1.61,Kaçınma
+HAYVAN_0220,Rakun,Akşam,Endüstriyel,61.2,15.0,4,3,0.25,0.31,Yenilikçilik
+HAYVAN_0221,Güvercin,Sabah,Konut,57.4,17.7,9,1,0.22,0.88,Yenilikçilik
+HAYVAN_0222,Sincap,Gece,Park,52.3,42.7,10,1,0.08,0.72,Kaçınma
+HAYVAN_0223,Rakun,Öğleden Sonra,Ticari,69.5,46.1,1,7,0.16,7.73,Kaçınma
+HAYVAN_0224,Sincap,Öğleden Sonra,Endüstriyel,69.2,18.1,5,8,0.25,1.9,Sömürü
+HAYVAN_0225,Sincap,Sabah,Konut,73.0,12.6,10,8,0.32,1.06,Kaçınma
+HAYVAN_0226,Rakun,Akşam,Endüstriyel,70.5,5.7,10,2,0.3,2.5,Yenilikçilik
+HAYVAN_0227,Güvercin,Akşam,Ticari,71.2,20.6,8,3,0.29,2.27,Sömürü
+HAYVAN_0228,Güvercin,Gece,Ticari,68.8,36.2,8,6,0.31,2.71,Yenilikçilik
+HAYVAN_0229,Güvercin,Sabah,Konut,47.4,13.7,5,1,0.28,0.26,Sömürü
+HAYVAN_0230,Rakun,Sabah,Konut,62.2,47.8,6,9,0.08,4.19,Sömürü
+HAYVAN_0231,Rakun,Gece,Endüstriyel,50.7,35.5,5,8,0.1,0.69,Kaçınma
+HAYVAN_0232,Rakun,Gece,Konut,78.7,46.0,5,8,0.5,0.26,Alışkanlık
+HAYVAN_0233,Rakun,Akşam,Park,64.9,18.1,8,4,0.44,2.0,Sömürü
+HAYVAN_0234,Sincap,Gece,Endüstriyel,77.7,40.7,8,1,0.49,0.35,Yenilikçilik
+HAYVAN_0235,Sincap,Sabah,Park,54.7,13.4,5,7,0.12,2.52,Yenilikçilik
+HAYVAN_0236,Rakun,Öğleden Sonra,Endüstriyel,64.1,40.4,7,9,0.21,1.08,Kaçınma
+HAYVAN_0237,Güvercin,Öğleden Sonra,Konut,67.6,51.6,7,5,0.32,0.59,Alışkanlık
+HAYVAN_0238,Sincap,Öğleden Sonra,Ticari,61.7,51.4,5,5,0.4,2.54,Sömürü
+HAYVAN_0239,Güvercin,Öğleden Sonra,Ticari,66.9,22.0,7,10,0.39,0.58,Sömürü
+HAYVAN_0240,Tilki,Sabah,Endüstriyel,79.8,16.8,4,2,0.28,0.09,Yenilikçilik
+HAYVAN_0241,Rakun,Öğleden Sonra,Park,54.7,27.5,8,7,0.39,0.02,Sömürü
+HAYVAN_0242,Güvercin,Sabah,Ticari,38.6,53.6,3,4,0.16,0.89,Alışkanlık
+HAYVAN_0243,Sincap,Akşam,Endüstriyel,81.0,9.6,8,9,0.2,0.88,Alışkanlık
+HAYVAN_0244,Güvercin,Öğleden Sonra,Endüstriyel,57.1,7.3,4,5,0.04,0.9,Alışkanlık
+HAYVAN_0245,Rakun,Sabah,Ticari,76.2,-0.7,6,5,0.49,1.09,Yenilikçilik
+HAYVAN_0246,Güvercin,Akşam,Ticari,71.5,31.4,8,4,0.3,0.33,Sömürü
+HAYVAN_0247,Sincap,Akşam,Park,62.8,4.5,8,2,0.27,0.84,Yenilikçilik
+HAYVAN_0248,Güvercin,Akşam,Konut,68.8,47.9,9,6,0.48,0.76,Sömürü
+HAYVAN_0249,Tilki,Öğleden Sonra,Park,53.6,54.6,6,4,0.13,0.54,Sömürü
+HAYVAN_0250,Tilki,Gece,Endüstriyel,65.9,27.9,6,3,0.43,1.7,Yenilikçilik
+HAYVAN_0251,Rakun,Sabah,Endüstriyel,70.9,65.9,2,5,0.21,1.1,Yenilikçilik
+HAYVAN_0252,Güvercin,Öğleden Sonra,Konut,57.3,33.5,3,4,0.24,0.26,Yenilikçilik
+HAYVAN_0253,Tilki,Sabah,Park,61.2,22.4,1,2,0.14,0.34,Kaçınma
+HAYVAN_0254,Güvercin,Sabah,Park,68.1,22.2,3,4,0.65,0.63,Kaçınma
+HAYVAN_0255,Rakun,Gece,Park,78.2,51.5,7,10,0.09,0.44,Alışkanlık
+HAYVAN_0256,Sincap,Öğleden Sonra,Ticari,65.0,41.9,2,1,0.33,0.36,Sömürü
+HAYVAN_0257,Tilki,Gece,Endüstriyel,60.7,-0.5,8,3,0.45,2.18,Sömürü
+HAYVAN_0258,Sincap,Akşam,Park,63.5,1.8,3,10,0.24,0.94,Yenilikçilik
+HAYVAN_0259,Rakun,Öğleden Sonra,Ticari,76.6,8.0,3,8,0.2,1.77,Yenilikçilik
+HAYVAN_0260,Güvercin,Akşam,Ticari,58.6,21.1,8,1,0.25,0.83,Kaçınma
+HAYVAN_0261,Güvercin,Gece,Park,62.0,10.5,6,2,0.48,3.36,Kaçınma
+HAYVAN_0262,Rakun,Akşam,Endüstriyel,58.7,18.5,5,9,0.54,3.12,Alışkanlık
+HAYVAN_0263,Sincap,Sabah,Konut,63.0,17.7,6,5,0.43,1.41,Sömürü
+HAYVAN_0264,Rakun,Gece,Konut,67.1,13.2,9,9,0.26,0.94,Alışkanlık
+HAYVAN_0265,Güvercin,Akşam,Park,75.3,61.8,5,6,0.42,1.12,Kaçınma
+HAYVAN_0266,Rakun,Akşam,Endüstriyel,43.8,51.3,9,5,0.34,1.4,Alışkanlık
+HAYVAN_0267,Rakun,Akşam,Konut,70.6,56.7,4,3,0.58,0.78,Kaçınma
+HAYVAN_0268,Rakun,Akşam,Endüstriyel,56.1,55.2,2,3,0.36,0.12,Kaçınma
+HAYVAN_0269,Güvercin,Öğleden Sonra,Konut,70.9,28.9,9,7,0.31,0.79,Kaçınma
+HAYVAN_0270,Tilki,Akşam,Ticari,77.4,31.7,4,6,0.19,1.91,Alışkanlık
+HAYVAN_0271,Güvercin,Akşam,Endüstriyel,75.0,16.1,5,4,0.49,1.12,Alışkanlık
+HAYVAN_0272,Güvercin,Öğleden Sonra,Konut,66.6,32.2,2,2,0.67,1.49,Yenilikçilik
+HAYVAN_0273,Rakun,Akşam,Park,73.3,15.0,7,9,0.44,0.74,Kaçınma
+HAYVAN_0274,Güvercin,Akşam,Endüstriyel,55.6,6.0,10,1,0.15,1.42,Sömürü
+HAYVAN_0275,Güvercin,Akşam,Endüstriyel,64.3,18.5,3,8,0.34,1.74,Alışkanlık
+HAYVAN_0276,Rakun,Öğleden Sonra,Endüstriyel,80.2,43.1,2,7,0.07,0.21,Alışkanlık
+HAYVAN_0277,Güvercin,Sabah,Konut,57.1,31.5,6,2,0.42,0.71,Alışkanlık
+HAYVAN_0278,Güvercin,Sabah,Ticari,67.0,39.0,3,1,0.12,0.58,Alışkanlık
+HAYVAN_0279,Tilki,Öğleden Sonra,Ticari,61.3,30.3,7,7,0.18,1.86,Alışkanlık
+HAYVAN_0280,Rakun,Sabah,Konut,63.0,16.2,2,3,0.45,0.22,Kaçınma
+HAYVAN_0281,Sincap,Sabah,Ticari,69.1,37.8,10,3,0.27,1.24,Yenilikçilik
+HAYVAN_0282,Rakun,Öğleden Sonra,Ticari,62.3,31.4,6,2,0.09,0.58,Alışkanlık
+HAYVAN_0283,Rakun,Gece,Park,65.0,49.7,8,1,0.22,0.91,Yenilikçilik
+HAYVAN_0284,Tilki,Öğleden Sonra,Ticari,60.0,50.3,7,4,0.13,1.65,Alışkanlık
+HAYVAN_0285,Rakun,Sabah,Konut,46.7,25.6,5,7,0.32,3.58,Alışkanlık
+HAYVAN_0286,Tilki,Sabah,Konut,66.9,31.8,7,4,0.43,0.47,Yenilikçilik
+HAYVAN_0287,Sincap,Akşam,Konut,69.4,16.6,2,9,0.37,1.55,Yenilikçilik
+HAYVAN_0288,Sincap,Gece,Park,78.8,17.1,2,8,0.26,0.32,Sömürü
+HAYVAN_0289,Tilki,Sabah,Endüstriyel,63.7,21.4,4,9,0.58,1.97,Kaçınma
+HAYVAN_0290,Sincap,Akşam,Ticari,51.1,37.4,9,5,0.07,1.09,Kaçınma
+HAYVAN_0291,Güvercin,Gece,Konut,57.5,22.2,1,5,0.27,3.41,Alışkanlık
+HAYVAN_0292,Sincap,Sabah,Park,70.4,53.2,4,4,0.46,0.9,Yenilikçilik
+HAYVAN_0293,Güvercin,Gece,Ticari,64.2,37.1,5,9,0.22,0.16,Kaçınma
+HAYVAN_0294,Sincap,Akşam,Endüstriyel,67.8,26.0,3,4,0.39,2.79,Sömürü
+HAYVAN_0295,Rakun,Sabah,Park,61.5,45.2,4,2,0.6,3.14,Sömürü
+HAYVAN_0296,Sincap,Öğleden Sonra,Konut,83.7,19.0,10,8,0.41,0.15,Alışkanlık
+HAYVAN_0297,Sincap,Öğleden Sonra,Konut,82.3,20.3,4,7,0.35,3.46,Kaçınma
+HAYVAN_0298,Sincap,Sabah,Endüstriyel,55.7,50.2,4,2,0.14,3.93,Sömürü
+HAYVAN_0299,Rakun,Sabah,Ticari,74.1,10.4,9,9,0.39,0.93,Alışkanlık
+HAYVAN_0300,Güvercin,Akşam,Park,68.0,27.8,7,10,0.09,0.65,Alışkanlık
+HAYVAN_0301,Rakun,Akşam,Park,65.1,24.3,8,3,0.29,0.39,Alışkanlık
+HAYVAN_0302,Tilki,Akşam,Ticari,56.4,19.0,10,5,0.42,0.49,Sömürü
+HAYVAN_0303,Rakun,Sabah,Konut,81.2,44.8,6,4,0.16,1.98,Alışkanlık
+HAYVAN_0304,Rakun,Gece,Ticari,76.7,42.9,5,9,0.26,3.77,Kaçınma
+HAYVAN_0305,Rakun,Gece,Ticari,50.4,40.2,6,5,0.28,0.1,Alışkanlık
+HAYVAN_0306,Sincap,Sabah,Ticari,78.8,30.3,1,1,0.49,2.65,Yenilikçilik
+HAYVAN_0307,Güvercin,Gece,Konut,64.6,39.6,6,4,0.44,0.18,Kaçınma
+HAYVAN_0308,Güvercin,Öğleden Sonra,Konut,59.0,-0.0,3,5,0.13,1.02,Alışkanlık
+HAYVAN_0309,Güvercin,Sabah,Park,55.2,23.9,3,2,0.28,0.38,Sömürü
+HAYVAN_0310,Rakun,Öğleden Sonra,Ticari,74.4,30.6,1,8,0.39,0.83,Alışkanlık
+HAYVAN_0311,Güvercin,Öğleden Sonra,Ticari,69.0,21.2,1,1,0.19,0.51,Alışkanlık
+HAYVAN_0312,Tilki,Öğleden Sonra,Konut,56.3,32.8,7,4,0.07,1.35,Alışkanlık
+HAYVAN_0313,Güvercin,Akşam,Konut,56.9,65.7,3,4,0.37,0.06,Alışkanlık
+HAYVAN_0314,Güvercin,Öğleden Sonra,Ticari,61.1,31.7,5,6,0.45,4.57,Alışkanlık
+HAYVAN_0315,Güvercin,Akşam,Endüstriyel,59.9,36.2,2,8,0.22,2.63,Sömürü
+HAYVAN_0316,Sincap,Sabah,Konut,70.3,33.0,3,7,0.4,1.0,Sömürü
+HAYVAN_0317,Güvercin,Akşam,Endüstriyel,68.8,12.0,5,10,0.64,0.51,Yenilikçilik
+HAYVAN_0318,Sincap,Gece,Ticari,58.6,7.7,3,8,0.52,0.31,Kaçınma
+HAYVAN_0319,Güvercin,Öğleden Sonra,Ticari,48.4,5.7,4,10,0.16,3.1,Alışkanlık
+HAYVAN_0320,Güvercin,Öğleden Sonra,Endüstriyel,51.7,34.2,3,2,0.3,2.3,Sömürü
+HAYVAN_0321,Rakun,Gece,Endüstriyel,73.7,-0.6,9,7,0.1,1.27,Alışkanlık
+HAYVAN_0322,Güvercin,Akşam,Ticari,55.1,39.6,5,3,0.28,1.44,Kaçınma
+HAYVAN_0323,Sincap,Öğleden Sonra,Endüstriyel,66.1,27.0,4,3,0.69,6.24,Sömürü
+HAYVAN_0324,Rakun,Akşam,Ticari,47.4,36.8,2,8,0.43,0.81,Kaçınma
+HAYVAN_0325,Rakun,Gece,Endüstriyel,69.0,10.1,8,6,0.35,0.53,Kaçınma
+HAYVAN_0326,Güvercin,Öğleden Sonra,Ticari,84.2,53.3,6,7,0.15,6.45,Alışkanlık
+HAYVAN_0327,Güvercin,Gece,Konut,51.7,29.1,6,1,0.12,1.51,Sömürü
+HAYVAN_0328,Sincap,Akşam,Ticari,70.5,1.6,5,6,0.15,5.59,Sömürü
+HAYVAN_0329,Rakun,Akşam,Ticari,67.7,48.5,7,10,0.14,0.08,Sömürü
+HAYVAN_0330,Sincap,Akşam,Konut,74.2,10.9,5,8,0.05,1.53,Alışkanlık
+HAYVAN_0331,Tilki,Sabah,Ticari,63.7,11.7,8,3,0.21,1.54,Kaçınma
+HAYVAN_0332,Sincap,Gece,Konut,67.7,12.0,5,10,0.23,0.73,Kaçınma
+HAYVAN_0333,Tilki,Akşam,Konut,66.8,25.3,4,3,0.17,0.66,Kaçınma
+HAYVAN_0334,Sincap,Akşam,Endüstriyel,70.7,38.8,8,8,0.39,1.78,Kaçınma
+HAYVAN_0335,Güvercin,Sabah,Ticari,56.6,38.4,6,9,0.26,0.49,Kaçınma
+HAYVAN_0336,Güvercin,Sabah,Konut,66.9,67.8,9,8,0.28,1.74,Alışkanlık
+HAYVAN_0337,Güvercin,Gece,Park,73.1,20.0,9,6,0.1,0.12,Yenilikçilik
+HAYVAN_0338,Tilki,Gece,Ticari,76.7,23.1,1,9,0.65,1.25,Yenilikçilik
+HAYVAN_0339,Güvercin,Akşam,Ticari,70.0,9.5,3,5,0.14,1.0,Sömürü
+HAYVAN_0340,Rakun,Gece,Park,53.7,13.5,4,4,0.22,10.44,Kaçınma
+HAYVAN_0341,Sincap,Sabah,Konut,49.5,46.8,7,8,0.33,3.19,Yenilikçilik
+HAYVAN_0342,Sincap,Öğleden Sonra,Ticari,69.1,22.5,1,8,0.45,1.52,Kaçınma
+HAYVAN_0343,Güvercin,Akşam,Park,54.9,36.8,6,3,0.33,0.36,Alışkanlık
+HAYVAN_0344,Tilki,Sabah,Ticari,73.4,30.5,10,2,0.2,0.91,Kaçınma
+HAYVAN_0345,Güvercin,Sabah,Endüstriyel,62.1,14.2,1,2,0.22,1.41,Kaçınma
+HAYVAN_0346,Rakun,Akşam,Ticari,75.1,17.6,7,6,0.17,0.79,Sömürü
+HAYVAN_0347,Güvercin,Gece,Konut,86.3,1.9,5,3,0.25,1.31,Alışkanlık
+HAYVAN_0348,Güvercin,Akşam,Konut,64.4,27.0,4,2,0.38,0.8,Kaçınma
+HAYVAN_0349,Sincap,Sabah,Ticari,63.8,31.2,8,10,0.39,2.13,Kaçınma
+HAYVAN_0350,Sincap,Gece,Park,75.1,25.4,9,9,0.17,0.29,Kaçınma
+HAYVAN_0351,Tilki,Sabah,Park,75.6,44.9,4,5,0.45,0.68,Sömürü
+HAYVAN_0352,Sincap,Akşam,Park,82.0,10.1,10,8,0.34,0.89,Alışkanlık
+HAYVAN_0353,Güvercin,Akşam,Konut,67.0,30.7,2,4,0.56,0.54,Alışkanlık
+HAYVAN_0354,Rakun,Gece,Ticari,58.7,14.9,1,3,0.2,2.45,Alışkanlık
+HAYVAN_0355,Rakun,Gece,Endüstriyel,65.1,35.7,10,2,0.21,3.9,Alışkanlık
+HAYVAN_0356,Güvercin,Sabah,Endüstriyel,58.8,16.5,10,5,0.59,5.77,Alışkanlık
+HAYVAN_0357,Rakun,Öğleden Sonra,Endüstriyel,67.4,42.2,3,3,0.47,2.68,Alışkanlık
+HAYVAN_0358,Rakun,Sabah,Konut,56.3,39.6,3,7,0.05,3.74,Alışkanlık
+HAYVAN_0359,Tilki,Gece,Endüstriyel,74.0,35.0,5,7,0.6,2.67,Alışkanlık
+HAYVAN_0360,Güvercin,Akşam,Endüstriyel,72.0,33.9,5,3,0.21,2.21,Sömürü
+HAYVAN_0361,Güvercin,Gece,Park,66.4,34.3,5,3,0.13,9.01,Sömürü
+HAYVAN_0362,Rakun,Öğleden Sonra,Park,65.3,35.0,6,5,0.13,1.33,Sömürü
+HAYVAN_0363,Tilki,Öğleden Sonra,Endüstriyel,63.0,38.0,5,4,0.22,1.1,Sömürü
+HAYVAN_0364,Rakun,Sabah,Park,78.1,24.7,5,10,0.58,3.33,Sömürü
+HAYVAN_0365,Güvercin,Gece,Ticari,76.9,13.2,6,10,0.08,0.2,Kaçınma
+HAYVAN_0366,Tilki,Akşam,Ticari,66.5,29.3,6,3,0.37,1.18,Kaçınma
+HAYVAN_0367,Güvercin,Öğleden Sonra,Park,56.4,37.7,4,1,0.2,0.12,Kaçınma
+HAYVAN_0368,Güvercin,Sabah,Park,53.2,37.7,9,5,0.23,2.21,Sömürü
+HAYVAN_0369,Güvercin,Gece,Ticari,67.9,56.0,2,4,0.22,4.6,Alışkanlık
+HAYVAN_0370,Tilki,Akşam,Konut,58.6,22.5,3,3,0.01,1.41,Kaçınma
+HAYVAN_0371,Sincap,Akşam,Endüstriyel,69.8,8.8,9,10,0.24,0.34,Kaçınma
+HAYVAN_0372,Güvercin,Akşam,Park,61.1,21.8,6,8,0.53,2.98,Alışkanlık
+HAYVAN_0373,Rakun,Sabah,Konut,72.7,23.7,7,8,0.16,0.07,Alışkanlık
+HAYVAN_0374,Tilki,Akşam,Endüstriyel,67.1,17.9,9,4,0.39,3.11,Kaçınma
+HAYVAN_0375,Tilki,Gece,Park,75.0,14.4,10,9,0.64,1.82,Kaçınma
+HAYVAN_0376,Rakun,Gece,Park,42.7,28.0,5,4,0.19,1.88,Sömürü
+HAYVAN_0377,Sincap,Gece,Konut,62.7,29.0,8,2,0.35,0.21,Kaçınma
+HAYVAN_0378,Güvercin,Öğleden Sonra,Endüstriyel,87.2,14.4,7,2,0.02,2.93,Yenilikçilik
+HAYVAN_0379,Tilki,Sabah,Park,40.0,12.8,2,5,0.3,0.07,Sömürü
+HAYVAN_0380,Rakun,Sabah,Endüstriyel,73.4,35.5,4,4,0.36,2.79,Alışkanlık
+HAYVAN_0381,Güvercin,Sabah,Endüstriyel,69.2,37.1,2,10,0.56,1.88,Alışkanlık
+HAYVAN_0382,Sincap,Sabah,Endüstriyel,77.9,17.7,6,7,0.38,3.58,Kaçınma
+HAYVAN_0383,Tilki,Gece,Konut,63.3,27.4,4,5,0.53,0.24,Alışkanlık
+HAYVAN_0384,Tilki,Akşam,Endüstriyel,76.9,37.4,6,4,0.29,0.58,Kaçınma
+HAYVAN_0385,Tilki,Gece,Ticari,77.2,32.0,3,9,0.25,4.91,Yenilikçilik
+HAYVAN_0386,Rakun,Sabah,Park,67.0,53.4,6,2,0.37,0.03,Sömürü
+HAYVAN_0387,Güvercin,Öğleden Sonra,Endüstriyel,53.4,9.9,10,9,0.24,0.36,Sömürü
+HAYVAN_0388,Sincap,Öğleden Sonra,Park,74.1,6.6,2,7,0.48,2.05,Sömürü
+HAYVAN_0389,Tilki,Gece,Ticari,55.3,40.8,2,1,0.03,0.05,Sömürü
+HAYVAN_0390,Rakun,Öğleden Sonra,Ticari,63.6,35.3,4,2,0.58,3.06,Alışkanlık
+HAYVAN_0391,Rakun,Öğleden Sonra,Ticari,74.5,21.8,6,5,0.36,2.36,Sömürü
+HAYVAN_0392,Güvercin,Gece,Ticari,75.9,46.3,9,6,0.4,1.8,Sömürü
+HAYVAN_0393,Sincap,Öğleden Sonra,Park,61.5,20.3,2,3,0.73,0.18,Alışkanlık
+HAYVAN_0394,Güvercin,Sabah,Endüstriyel,71.3,37.7,3,10,0.13,0.04,Alışkanlık
+HAYVAN_0395,Güvercin,Akşam,Konut,49.6,27.3,9,7,0.36,5.14,Kaçınma
+HAYVAN_0396,Güvercin,Öğleden Sonra,Endüstriyel,60.3,18.4,10,7,0.32,1.91,Kaçınma
+HAYVAN_0397,Rakun,Akşam,Endüstriyel,79.7,23.6,7,5,0.35,1.6,Sömürü
+HAYVAN_0398,Güvercin,Öğleden Sonra,Park,78.4,47.6,3,6,0.08,1.15,Kaçınma
+HAYVAN_0399,Rakun,Öğleden Sonra,Endüstriyel,71.7,24.2,9,5,0.43,1.05,Alışkanlık
+HAYVAN_0400,Sincap,Öğleden Sonra,Ticari,63.6,52.6,7,4,0.04,0.11,Sömürü
+HAYVAN_0401,Güvercin,Akşam,Park,73.5,32.3,7,7,0.26,1.41,Alışkanlık
+HAYVAN_0402,Güvercin,Sabah,Konut,64.8,26.2,6,2,0.38,1.97,Yenilikçilik
+HAYVAN_0403,Sincap,Öğleden Sonra,Park,66.7,14.9,7,9,0.13,3.31,Yenilikçilik
+HAYVAN_0404,Güvercin,Sabah,Park,65.9,40.1,5,8,0.23,0.95,Alışkanlık
+HAYVAN_0405,Sincap,Öğleden Sonra,Konut,57.2,33.1,7,3,0.52,0.99,Kaçınma
+HAYVAN_0406,Rakun,Gece,Park,72.3,28.8,2,2,0.22,2.52,Yenilikçilik
+HAYVAN_0407,Tilki,Sabah,Ticari,54.3,31.5,3,1,0.43,2.73,Yenilikçilik
+HAYVAN_0408,Güvercin,Sabah,Endüstriyel,72.8,28.2,8,1,0.36,0.04,Kaçınma
+HAYVAN_0409,Güvercin,Öğleden Sonra,Park,55.4,12.1,4,4,0.21,0.89,Kaçınma
+HAYVAN_0410,Rakun,Sabah,Konut,57.8,39.8,3,7,0.32,3.57,Sömürü
+HAYVAN_0411,Rakun,Akşam,Endüstriyel,36.6,57.9,4,2,0.38,0.02,Alışkanlık
+HAYVAN_0412,Güvercin,Sabah,Ticari,63.4,55.5,9,5,0.4,7.89,Alışkanlık
+HAYVAN_0413,Sincap,Gece,Endüstriyel,66.9,31.6,3,10,0.85,0.55,Yenilikçilik
+HAYVAN_0414,Tilki,Akşam,Ticari,73.3,26.2,5,7,0.66,0.09,Sömürü
+HAYVAN_0415,Güvercin,Sabah,Ticari,78.1,31.3,7,6,0.21,1.38,Yenilikçilik
+HAYVAN_0416,Tilki,Akşam,Ticari,50.1,20.7,1,4,0.21,1.7,Sömürü
+HAYVAN_0417,Rakun,Öğleden Sonra,Park,74.8,34.2,6,10,0.17,2.37,Alışkanlık
+HAYVAN_0418,Rakun,Akşam,Ticari,60.4,35.6,6,10,0.33,1.71,Alışkanlık
+HAYVAN_0419,Güvercin,Gece,Endüstriyel,64.3,12.0,6,3,0.48,2.4,Kaçınma
+HAYVAN_0420,Sincap,Akşam,Park,63.9,25.1,4,10,0.14,3.52,Kaçınma
+HAYVAN_0421,Güvercin,Gece,Konut,60.5,43.1,1,3,0.12,1.29,Kaçınma
+HAYVAN_0422,Güvercin,Sabah,Park,56.1,43.5,5,5,0.1,0.97,Sömürü
+HAYVAN_0423,Sincap,Sabah,Ticari,67.8,11.1,3,8,0.02,0.24,Kaçınma
+HAYVAN_0424,Sincap,Öğleden Sonra,Konut,73.1,46.4,4,5,0.06,1.12,Kaçınma
+HAYVAN_0425,Güvercin,Gece,Ticari,52.4,25.7,7,8,0.3,5.15,Sömürü
+HAYVAN_0426,Sincap,Akşam,Konut,64.8,29.6,2,6,0.53,0.31,Yenilikçilik
+HAYVAN_0427,Sincap,Sabah,Park,58.7,27.6,5,2,0.19,0.08,Yenilikçilik
+HAYVAN_0428,Güvercin,Sabah,Endüstriyel,76.0,-1.7,10,5,0.27,1.22,Alışkanlık
+HAYVAN_0429,Tilki,Gece,Park,69.9,36.3,4,9,0.3,4.98,Sömürü
+HAYVAN_0430,Güvercin,Akşam,Endüstriyel,80.1,5.9,6,10,0.29,0.21,Sömürü
+HAYVAN_0431,Güvercin,Akşam,Ticari,49.5,42.5,2,7,0.15,3.03,Sömürü
+HAYVAN_0432,Rakun,Öğleden Sonra,Ticari,75.3,10.5,4,10,0.06,1.67,Sömürü
+HAYVAN_0433,Güvercin,Sabah,Park,66.6,45.9,10,6,0.09,2.5,Sömürü
+HAYVAN_0434,Güvercin,Akşam,Ticari,57.7,33.5,7,3,0.34,3.03,Yenilikçilik
+HAYVAN_0435,Güvercin,Gece,Endüstriyel,69.9,39.1,8,4,0.28,0.01,Sömürü
+HAYVAN_0436,Rakun,Öğleden Sonra,Ticari,80.7,19.2,1,3,0.09,1.42,Sömürü
+HAYVAN_0437,Sincap,Akşam,Endüstriyel,81.0,2.9,4,10,0.49,2.01,Yenilikçilik
+HAYVAN_0438,Rakun,Gece,Konut,73.2,15.3,1,3,0.53,2.11,Kaçınma
+HAYVAN_0439,Tilki,Gece,Ticari,55.1,34.8,2,3,0.23,0.46,Sömürü
+HAYVAN_0440,Güvercin,Akşam,Endüstriyel,68.1,36.9,4,2,0.13,0.33,Sömürü
+HAYVAN_0441,Güvercin,Öğleden Sonra,Park,68.4,17.1,5,3,0.17,0.05,Kaçınma
+HAYVAN_0442,Güvercin,Akşam,Ticari,77.4,49.9,3,7,0.08,0.94,Alışkanlık
+HAYVAN_0443,Sincap,Gece,Endüstriyel,63.4,29.7,7,7,0.05,1.44,Alışkanlık
+HAYVAN_0444,Güvercin,Sabah,Konut,65.2,5.4,7,10,0.4,0.02,Alışkanlık
+HAYVAN_0445,Rakun,Öğleden Sonra,Konut,58.5,34.0,1,10,0.42,7.36,Yenilikçilik
+HAYVAN_0446,Sincap,Öğleden Sonra,Ticari,71.7,18.4,9,4,0.41,0.56,Sömürü
+HAYVAN_0447,Sincap,Akşam,Endüstriyel,62.8,42.3,3,8,0.69,2.95,Yenilikçilik
+HAYVAN_0448,Güvercin,Öğleden Sonra,Konut,66.9,33.4,3,6,0.67,0.75,Yenilikçilik
+HAYVAN_0449,Güvercin,Akşam,Park,60.3,32.3,5,10,0.63,1.6,Alışkanlık
+HAYVAN_0450,Rakun,Öğleden Sonra,Park,65.5,25.7,1,5,0.22,2.77,Kaçınma
+HAYVAN_0451,Rakun,Öğleden Sonra,Endüstriyel,54.2,46.8,1,7,0.33,0.3,Sömürü
+HAYVAN_0452,Sincap,Akşam,Park,66.6,16.4,9,3,0.05,2.52,Yenilikçilik
+HAYVAN_0453,Güvercin,Akşam,Konut,59.0,35.0,9,8,0.27,1.38,Kaçınma
+HAYVAN_0454,Tilki,Öğleden Sonra,Endüstriyel,72.0,30.6,7,3,0.61,5.25,Alışkanlık
+HAYVAN_0455,Sincap,Akşam,Konut,83.5,14.5,7,7,0.09,1.21,Alışkanlık
+HAYVAN_0456,Rakun,Sabah,Ticari,73.5,28.9,7,1,0.2,1.18,Yenilikçilik
+HAYVAN_0457,Rakun,Akşam,Ticari,53.8,15.8,8,9,0.13,0.81,Alışkanlık
+HAYVAN_0458,Rakun,Akşam,Ticari,61.4,60.6,2,4,0.16,0.95,Yenilikçilik
+HAYVAN_0459,Tilki,Sabah,Endüstriyel,48.9,45.2,3,8,0.26,0.61,Alışkanlık
+HAYVAN_0460,Sincap,Akşam,Endüstriyel,65.1,5.5,3,2,0.03,2.09,Alışkanlık
+HAYVAN_0461,Güvercin,Sabah,Endüstriyel,47.3,23.2,6,4,0.25,0.15,Yenilikçilik
+HAYVAN_0462,Güvercin,Akşam,Ticari,53.0,39.1,6,1,0.1,0.35,Sömürü
+HAYVAN_0463,Güvercin,Öğleden Sonra,Ticari,76.0,47.6,5,2,0.21,0.11,Alışkanlık
+HAYVAN_0464,Sincap,Gece,Ticari,73.6,43.1,8,9,0.08,0.81,Alışkanlık
+HAYVAN_0465,Tilki,Gece,Endüstriyel,49.8,58.6,2,6,0.23,1.83,Alışkanlık
+HAYVAN_0466,Rakun,Sabah,Konut,60.5,32.0,2,6,0.12,5.88,Sömürü
+HAYVAN_0467,Tilki,Gece,Endüstriyel,69.6,49.2,10,5,0.25,1.36,Alışkanlık
+HAYVAN_0468,Rakun,Gece,Endüstriyel,68.9,12.6,2,7,0.38,0.23,Kaçınma
+HAYVAN_0469,Rakun,Akşam,Endüstriyel,48.7,43.1,5,10,0.1,3.01,Alışkanlık
+HAYVAN_0470,Tilki,Gece,Konut,67.6,26.9,9,10,0.38,2.67,Yenilikçilik
+HAYVAN_0471,Rakun,Sabah,Endüstriyel,58.9,27.8,10,10,0.36,2.02,Kaçınma
+HAYVAN_0472,Tilki,Öğleden Sonra,Endüstriyel,77.0,50.7,10,1,0.2,0.98,Alışkanlık
+HAYVAN_0473,Güvercin,Gece,Ticari,63.0,44.5,9,7,0.11,0.59,Kaçınma
+HAYVAN_0474,Güvercin,Sabah,Ticari,68.6,27.5,5,7,0.23,3.29,Kaçınma
+HAYVAN_0475,Sincap,Öğleden Sonra,Park,63.9,68.3,10,9,0.59,0.35,Kaçınma
+HAYVAN_0476,Rakun,Akşam,Ticari,71.7,48.9,4,10,0.18,0.72,Yenilikçilik
+HAYVAN_0477,Tilki,Öğleden Sonra,Park,57.3,23.4,9,3,0.34,0.25,Sömürü
+HAYVAN_0478,Rakun,Sabah,Konut,71.7,-6.3,1,1,0.49,0.11,Yenilikçilik
+HAYVAN_0479,Tilki,Gece,Ticari,77.1,34.2,6,2,0.41,1.33,Alışkanlık
+HAYVAN_0480,Rakun,Akşam,Endüstriyel,83.4,24.1,6,7,0.34,0.86,Kaçınma
+HAYVAN_0481,Rakun,Akşam,Endüstriyel,80.8,20.6,3,4,0.5,2.01,Alışkanlık
+HAYVAN_0482,Tilki,Akşam,Ticari,59.6,22.6,4,1,0.25,1.03,Alışkanlık
+HAYVAN_0483,Tilki,Gece,Ticari,70.8,32.3,5,7,0.5,1.6,Kaçınma
+HAYVAN_0484,Tilki,Öğleden Sonra,Endüstriyel,73.1,49.7,9,9,0.15,1.45,Kaçınma
+HAYVAN_0485,Rakun,Akşam,Ticari,70.9,15.3,9,8,0.38,2.11,Kaçınma
+HAYVAN_0486,Güvercin,Öğleden Sonra,Ticari,72.5,28.9,8,7,0.27,0.27,Yenilikçilik
+HAYVAN_0487,Güvercin,Öğleden Sonra,Ticari,69.2,27.0,8,2,0.18,1.36,Sömürü
+HAYVAN_0488,Güvercin,Öğleden Sonra,Park,59.5,17.6,6,7,0.31,0.41,Alışkanlık
+HAYVAN_0489,Sincap,Akşam,Konut,67.1,34.2,4,6,0.36,0.04,Alışkanlık
+HAYVAN_0490,Rakun,Sabah,Ticari,73.5,56.6,4,9,0.21,1.57,Alışkanlık
+HAYVAN_0491,Tilki,Akşam,Ticari,69.6,39.2,5,8,0.49,0.05,Yenilikçilik
+HAYVAN_0492,Sincap,Akşam,Konut,54.0,31.1,3,9,0.23,1.13,Yenilikçilik
+HAYVAN_0493,Sincap,Akşam,Konut,56.2,23.4,2,6,0.12,1.94,Sömürü
+HAYVAN_0494,Rakun,Akşam,Endüstriyel,60.9,30.7,3,2,0.32,6.23,Sömürü
+HAYVAN_0495,Rakun,Gece,Konut,63.0,4.2,4,1,0.19,3.01,Yenilikçilik
+HAYVAN_0496,Sincap,Öğleden Sonra,Endüstriyel,66.6,29.1,8,4,0.27,1.48,Kaçınma
+HAYVAN_0497,Sincap,Sabah,Konut,55.2,27.1,5,8,0.13,1.63,Alışkanlık
+HAYVAN_0498,Sincap,Akşam,Ticari,72.9,37.2,3,2,0.22,2.22,Alışkanlık
+HAYVAN_0499,Güvercin,Akşam,Konut,46.4,44.2,2,10,0.08,0.14,Alışkanlık
+HAYVAN_0500,Tilki,Öğleden Sonra,Konut,70.3,41.2,6,3,0.19,1.81,Sömürü
+HAYVAN_0501,Rakun,Öğleden Sonra,Ticari,70.1,28.0,1,6,0.19,2.68,Yenilikçilik
+HAYVAN_0502,Güvercin,Öğleden Sonra,Ticari,71.4,22.2,6,2,0.05,2.06,Yenilikçilik
+HAYVAN_0503,Sincap,Sabah,Endüstriyel,34.3,20.6,5,2,0.38,0.22,Yenilikçilik
+HAYVAN_0504,Rakun,Öğleden Sonra,Park,51.5,18.3,4,9,0.21,2.76,Sömürü
+HAYVAN_0505,Sincap,Sabah,Konut,61.5,20.8,1,10,0.26,0.12,Kaçınma
+HAYVAN_0506,Güvercin,Akşam,Park,66.7,28.2,9,10,0.07,0.63,Sömürü
+HAYVAN_0507,Güvercin,Öğleden Sonra,Park,64.2,11.7,2,8,0.23,1.28,Kaçınma
+HAYVAN_0508,Güvercin,Akşam,Endüstriyel,56.9,36.6,10,5,0.38,1.57,Sömürü
+HAYVAN_0509,Sincap,Gece,Konut,77.8,28.4,7,5,0.46,0.67,Alışkanlık
+HAYVAN_0510,Güvercin,Gece,Park,68.2,17.5,4,1,0.12,0.32,Yenilikçilik
+HAYVAN_0511,Sincap,Akşam,Ticari,61.1,20.4,3,2,0.32,0.03,Kaçınma
+HAYVAN_0512,Sincap,Akşam,Konut,55.1,42.6,9,1,0.23,0.08,Sömürü
+HAYVAN_0513,Sincap,Gece,Ticari,65.7,43.6,9,1,0.56,4.07,Sömürü
+HAYVAN_0514,Güvercin,Akşam,Ticari,77.6,65.8,5,5,0.22,0.5,Alışkanlık
+HAYVAN_0515,Güvercin,Gece,Ticari,65.4,38.5,4,4,0.13,3.33,Alışkanlık
+HAYVAN_0516,Güvercin,Öğleden Sonra,Konut,64.7,19.9,4,1,0.17,2.03,Alışkanlık
+HAYVAN_0517,Güvercin,Sabah,Konut,65.7,19.2,3,10,0.44,0.35,Alışkanlık
+HAYVAN_0518,Sincap,Öğleden Sonra,Konut,66.2,35.8,9,9,0.64,1.5,Alışkanlık
+HAYVAN_0519,Güvercin,Öğleden Sonra,Ticari,62.7,42.1,7,1,0.07,3.25,Kaçınma
+HAYVAN_0520,Güvercin,Öğleden Sonra,Park,55.3,51.1,5,7,0.33,3.45,Sömürü
+HAYVAN_0521,Tilki,Akşam,Park,80.3,16.9,6,9,0.07,0.86,Yenilikçilik
+HAYVAN_0522,Güvercin,Öğleden Sonra,Endüstriyel,71.4,31.5,3,5,0.23,2.01,Sömürü
+HAYVAN_0523,Sincap,Akşam,Endüstriyel,86.2,12.6,6,5,0.48,2.02,Yenilikçilik
+HAYVAN_0524,Rakun,Akşam,Park,70.0,35.7,5,1,0.12,1.8,Kaçınma
+HAYVAN_0525,Rakun,Sabah,Ticari,62.7,14.8,7,8,0.27,0.29,Kaçınma
+HAYVAN_0526,Güvercin,Akşam,Konut,55.5,51.8,2,2,0.11,6.91,Kaçınma
+HAYVAN_0527,Rakun,Akşam,Ticari,61.7,18.3,10,3,0.06,1.42,Yenilikçilik
+HAYVAN_0528,Güvercin,Gece,Konut,53.5,39.1,9,5,0.35,0.71,Kaçınma
+HAYVAN_0529,Tilki,Gece,Ticari,86.0,32.3,8,5,0.68,0.29,Alışkanlık
+HAYVAN_0530,Güvercin,Gece,Ticari,64.8,30.7,3,3,0.23,3.87,Kaçınma
+HAYVAN_0531,Rakun,Sabah,Endüstriyel,72.9,2.9,2,6,0.19,1.72,Sömürü
+HAYVAN_0532,Sincap,Gece,Park,74.6,28.6,10,3,0.4,0.02,Kaçınma
+HAYVAN_0533,Tilki,Akşam,Konut,75.8,15.3,7,9,0.14,0.19,Alışkanlık
+HAYVAN_0534,Rakun,Öğleden Sonra,Park,90.5,21.2,2,10,0.37,0.48,Yenilikçilik
+HAYVAN_0535,Tilki,Akşam,Ticari,64.0,37.3,1,3,0.16,2.98,Kaçınma
+HAYVAN_0536,Güvercin,Öğleden Sonra,Ticari,63.2,70.8,8,5,0.13,0.64,Kaçınma
+HAYVAN_0537,Rakun,Gece,Endüstriyel,66.6,58.5,8,3,0.14,0.01,Kaçınma
+HAYVAN_0538,Güvercin,Akşam,Endüstriyel,72.5,37.7,1,9,0.17,1.97,Kaçınma
+HAYVAN_0539,Tilki,Akşam,Ticari,66.8,35.8,8,3,0.1,2.06,Kaçınma
+HAYVAN_0540,Tilki,Öğleden Sonra,Konut,62.3,24.7,4,7,0.19,0.56,Sömürü
+HAYVAN_0541,Rakun,Sabah,Konut,57.8,15.0,8,5,0.22,1.78,Yenilikçilik
+HAYVAN_0542,Güvercin,Akşam,Park,57.3,36.6,10,6,0.12,0.6,Alışkanlık
+HAYVAN_0543,Güvercin,Akşam,Endüstriyel,67.7,23.3,6,3,0.09,1.11,Alışkanlık
+HAYVAN_0544,Tilki,Sabah,Park,55.0,56.3,8,4,0.08,1.7,Alışkanlık
+HAYVAN_0545,Güvercin,Sabah,Park,46.9,62.2,5,1,0.39,1.84,Kaçınma
+HAYVAN_0546,Tilki,Sabah,Ticari,66.2,62.1,2,7,0.11,0.4,Alışkanlık
+HAYVAN_0547,Tilki,Gece,Park,76.6,20.5,10,6,0.3,0.39,Sömürü
+HAYVAN_0548,Rakun,Akşam,Ticari,71.6,22.4,7,4,0.32,1.58,Kaçınma
+HAYVAN_0549,Güvercin,Gece,Endüstriyel,64.8,11.8,2,10,0.24,0.28,Kaçınma
+HAYVAN_0550,Sincap,Öğleden Sonra,Park,69.0,39.7,9,10,0.11,0.02,Alışkanlık
+HAYVAN_0551,Güvercin,Akşam,Park,48.5,17.2,1,1,0.43,0.73,Kaçınma
+HAYVAN_0552,Rakun,Gece,Ticari,58.1,20.9,7,9,0.47,0.4,Alışkanlık
+HAYVAN_0553,Güvercin,Öğleden Sonra,Endüstriyel,81.8,16.7,7,5,0.44,2.65,Alışkanlık
+HAYVAN_0554,Tilki,Sabah,Endüstriyel,76.8,21.6,6,1,0.35,1.96,Kaçınma
+HAYVAN_0555,Rakun,Akşam,Park,57.9,54.8,5,9,0.27,1.79,Alışkanlık
+HAYVAN_0556,Sincap,Gece,Ticari,82.5,-7.0,3,5,0.08,0.16,Kaçınma
+HAYVAN_0557,Rakun,Akşam,Park,57.8,37.9,3,5,0.46,0.99,Kaçınma
+HAYVAN_0558,Güvercin,Akşam,Park,56.8,17.9,10,5,0.49,1.49,Sömürü
+HAYVAN_0559,Güvercin,Akşam,Ticari,80.4,65.2,6,3,0.31,0.71,Yenilikçilik
+HAYVAN_0560,Rakun,Sabah,Endüstriyel,78.1,42.4,3,4,0.19,3.17,Alışkanlık
+HAYVAN_0561,Tilki,Gece,Ticari,59.1,14.7,8,3,0.54,1.54,Yenilikçilik
+HAYVAN_0562,Rakun,Gece,Konut,64.5,20.8,10,2,0.22,2.2,Kaçınma
+HAYVAN_0563,Tilki,Sabah,Konut,61.6,21.5,8,5,0.29,1.21,Sömürü
+HAYVAN_0564,Güvercin,Sabah,Konut,70.0,47.3,2,10,0.41,1.06,Alışkanlık
+HAYVAN_0565,Sincap,Gece,Ticari,80.7,55.4,8,4,0.14,1.43,Kaçınma
+HAYVAN_0566,Güvercin,Akşam,Park,70.3,32.3,10,10,0.28,2.63,Kaçınma
+HAYVAN_0567,Rakun,Akşam,Endüstriyel,63.9,27.9,1,1,0.21,1.41,Sömürü
+HAYVAN_0568,Rakun,Gece,Ticari,51.5,45.7,2,4,0.17,0.96,Alışkanlık
+HAYVAN_0569,Tilki,Öğleden Sonra,Endüstriyel,72.8,30.4,6,3,0.15,2.02,Kaçınma
+HAYVAN_0570,Güvercin,Öğleden Sonra,Ticari,52.8,37.0,1,10,0.26,2.02,Sömürü
+HAYVAN_0571,Güvercin,Öğleden Sonra,Konut,63.1,33.3,3,3,0.09,0.07,Sömürü
+HAYVAN_0572,Güvercin,Akşam,Endüstriyel,74.6,18.2,6,10,0.11,3.05,Alışkanlık
+HAYVAN_0573,Güvercin,Akşam,Park,73.1,50.4,9,1,0.26,0.46,Yenilikçilik
+HAYVAN_0574,Sincap,Öğleden Sonra,Endüstriyel,73.4,21.1,4,8,0.21,2.79,Kaçınma
+HAYVAN_0575,Güvercin,Öğleden Sonra,Park,72.0,59.1,6,7,0.09,2.18,Kaçınma
+HAYVAN_0576,Sincap,Öğleden Sonra,Park,66.5,47.7,7,9,0.23,0.9,Alışkanlık
+HAYVAN_0577,Tilki,Sabah,Park,68.0,32.9,6,6,0.05,0.42,Yenilikçilik
+HAYVAN_0578,Sincap,Öğleden Sonra,Konut,65.9,11.3,2,8,0.3,2.16,Alışkanlık
+HAYVAN_0579,Sincap,Akşam,Endüstriyel,69.8,55.1,9,4,0.24,0.4,Kaçınma
+HAYVAN_0580,Sincap,Akşam,Park,70.4,34.7,7,4,0.28,0.08,Alışkanlık
+HAYVAN_0581,Tilki,Öğleden Sonra,Ticari,66.3,43.4,3,1,0.41,0.87,Kaçınma
+HAYVAN_0582,Sincap,Akşam,Endüstriyel,70.1,52.2,8,6,0.07,0.28,Alışkanlık
+HAYVAN_0583,Tilki,Akşam,Endüstriyel,58.2,13.2,1,5,0.83,3.49,Alışkanlık
+HAYVAN_0584,Tilki,Akşam,Ticari,61.9,35.5,7,1,0.23,0.68,Yenilikçilik
+HAYVAN_0585,Tilki,Öğleden Sonra,Konut,67.3,24.3,9,7,0.03,5.4,Alışkanlık
+HAYVAN_0586,Tilki,Akşam,Endüstriyel,84.2,34.8,8,4,0.28,0.89,Yenilikçilik
+HAYVAN_0587,Rakun,Sabah,Ticari,70.3,36.9,6,1,0.51,1.03,Alışkanlık
+HAYVAN_0588,Güvercin,Öğleden Sonra,Konut,63.7,5.0,2,4,0.16,0.77,Alışkanlık
+HAYVAN_0589,Tilki,Gece,Konut,62.8,26.6,2,8,0.19,0.18,Kaçınma
+HAYVAN_0590,Rakun,Öğleden Sonra,Ticari,72.4,31.3,5,1,0.12,0.96,Kaçınma
+HAYVAN_0591,Güvercin,Akşam,Park,64.0,11.2,5,10,0.34,0.37,Yenilikçilik
+HAYVAN_0592,Güvercin,Öğleden Sonra,Park,71.4,19.0,6,8,0.12,2.15,Alışkanlık
+HAYVAN_0593,Güvercin,Akşam,Ticari,70.1,31.9,2,3,0.15,1.73,Kaçınma
+HAYVAN_0594,Rakun,Sabah,Ticari,52.5,40.3,2,10,0.11,0.04,Sömürü
+HAYVAN_0595,Güvercin,Sabah,Park,69.7,27.8,7,10,0.53,5.09,Alışkanlık
+HAYVAN_0596,Güvercin,Akşam,Endüstriyel,69.7,19.5,6,5,0.23,2.61,Alışkanlık
+HAYVAN_0597,Tilki,Gece,Park,73.0,14.9,2,10,0.46,0.78,Alışkanlık
+HAYVAN_0598,Güvercin,Akşam,Park,56.6,24.6,6,3,0.21,1.18,Yenilikçilik
+HAYVAN_0599,Rakun,Gece,Ticari,75.9,18.0,7,10,0.09,1.44,Kaçınma
+HAYVAN_0600,Rakun,Akşam,Endüstriyel,63.3,38.9,5,1,0.5,1.72,Alışkanlık
+HAYVAN_0601,Tilki,Gece,Park,84.9,33.8,10,8,0.26,0.83,Sömürü
+HAYVAN_0602,Tilki,Sabah,Konut,82.5,20.2,10,3,0.12,0.54,Yenilikçilik
+HAYVAN_0603,Sincap,Gece,Park,58.9,33.4,6,5,0.18,0.24,Alışkanlık
+HAYVAN_0604,Sincap,Akşam,Ticari,51.3,65.0,1,6,0.49,4.44,Sömürü
+HAYVAN_0605,Güvercin,Sabah,Park,72.0,41.3,10,6,0.22,2.04,Alışkanlık
+HAYVAN_0606,Tilki,Öğleden Sonra,Endüstriyel,56.8,33.8,4,4,0.19,0.49,Yenilikçilik
+HAYVAN_0607,Güvercin,Akşam,Ticari,76.5,40.8,9,7,0.16,1.39,Sömürü
+HAYVAN_0608,Rakun,Gece,Ticari,70.3,49.0,10,5,0.29,2.01,Sömürü
+HAYVAN_0609,Güvercin,Gece,Konut,50.5,7.2,4,4,0.21,0.65,Kaçınma
+HAYVAN_0610,Rakun,Sabah,Konut,72.8,23.6,7,9,0.18,2.86,Sömürü
+HAYVAN_0611,Tilki,Gece,Ticari,66.4,20.7,10,9,0.31,3.24,Kaçınma
+HAYVAN_0612,Rakun,Sabah,Konut,69.1,20.3,4,3,0.41,0.25,Yenilikçilik
+HAYVAN_0613,Güvercin,Gece,Konut,80.2,61.7,6,5,0.29,0.52,Sömürü
+HAYVAN_0614,Sincap,Öğleden Sonra,Konut,63.7,37.7,8,6,0.11,0.42,Sömürü
+HAYVAN_0615,Rakun,Sabah,Endüstriyel,72.6,46.7,5,9,0.33,0.17,Yenilikçilik
+HAYVAN_0616,Rakun,Akşam,Ticari,59.0,34.5,7,7,0.19,2.0,Alışkanlık
+HAYVAN_0617,Güvercin,Gece,Konut,59.3,71.3,2,2,0.12,0.13,Sömürü
+HAYVAN_0618,Sincap,Akşam,Park,62.8,-0.2,1,6,0.12,2.06,Kaçınma
+HAYVAN_0619,Sincap,Gece,Endüstriyel,58.8,22.7,8,10,0.12,1.25,Alışkanlık
+HAYVAN_0620,Rakun,Sabah,Park,70.7,23.4,2,4,0.36,2.04,Kaçınma
+HAYVAN_0621,Sincap,Sabah,Konut,51.8,24.8,7,4,0.13,1.33,Kaçınma
+HAYVAN_0622,Tilki,Sabah,Park,73.3,43.7,4,10,0.1,3.44,Kaçınma
+HAYVAN_0623,Güvercin,Öğleden Sonra,Endüstriyel,57.4,31.4,4,3,0.25,0.39,Kaçınma
+HAYVAN_0624,Sincap,Akşam,Ticari,68.8,39.8,6,1,0.29,1.33,Alışkanlık
+HAYVAN_0625,Sincap,Gece,Ticari,53.1,45.6,3,6,0.18,1.01,Kaçınma
+HAYVAN_0626,Güvercin,Sabah,Konut,69.8,33.4,4,5,0.35,1.03,Alışkanlık
+HAYVAN_0627,Tilki,Akşam,Ticari,75.8,40.9,1,6,0.4,1.11,Kaçınma
+HAYVAN_0628,Tilki,Öğleden Sonra,Konut,65.1,23.4,8,10,0.23,2.42,Kaçınma
+HAYVAN_0629,Güvercin,Gece,Park,80.5,20.3,3,9,0.17,0.91,Sömürü
+HAYVAN_0630,Rakun,Öğleden Sonra,Endüstriyel,63.6,16.7,4,9,0.31,1.91,Kaçınma
+HAYVAN_0631,Güvercin,Akşam,Konut,69.1,31.3,8,10,0.63,2.08,Alışkanlık
+HAYVAN_0632,Güvercin,Öğleden Sonra,Endüstriyel,55.7,15.7,4,1,0.08,0.99,Sömürü
+HAYVAN_0633,Güvercin,Gece,Konut,69.4,14.0,3,8,0.18,0.19,Sömürü
+HAYVAN_0634,Sincap,Gece,Ticari,59.3,39.8,6,10,0.06,0.1,Yenilikçilik
+HAYVAN_0635,Güvercin,Akşam,Park,57.8,16.0,1,6,0.17,1.34,Yenilikçilik
+HAYVAN_0636,Tilki,Akşam,Endüstriyel,80.8,38.5,2,5,0.56,0.07,Kaçınma
+HAYVAN_0637,Güvercin,Sabah,Ticari,52.3,25.2,9,6,0.16,0.11,Kaçınma
+HAYVAN_0638,Sincap,Sabah,Ticari,63.9,21.3,3,2,0.17,1.53,Sömürü
+HAYVAN_0639,Tilki,Akşam,Park,72.1,43.6,6,2,0.6,2.56,Alışkanlık
+HAYVAN_0640,Rakun,Sabah,Ticari,67.3,44.9,10,3,0.16,0.41,Sömürü
+HAYVAN_0641,Rakun,Akşam,Ticari,46.5,33.2,8,6,0.41,1.33,Kaçınma
+HAYVAN_0642,Sincap,Öğleden Sonra,Park,71.0,51.2,6,9,0.23,1.49,Yenilikçilik
+HAYVAN_0643,Sincap,Gece,Park,51.2,4.8,4,1,0.29,0.82,Alışkanlık
+HAYVAN_0644,Tilki,Gece,Endüstriyel,60.6,46.2,10,1,0.05,0.4,Kaçınma
+HAYVAN_0645,Rakun,Sabah,Konut,62.6,17.9,7,1,0.1,1.73,Yenilikçilik
+HAYVAN_0646,Rakun,Akşam,Ticari,35.8,26.5,6,8,0.23,0.69,Alışkanlık
+HAYVAN_0647,Sincap,Sabah,Ticari,63.9,35.4,8,5,0.55,0.1,Yenilikçilik
+HAYVAN_0648,Sincap,Gece,Endüstriyel,71.7,19.6,2,5,0.27,0.4,Sömürü
+HAYVAN_0649,Güvercin,Sabah,Ticari,63.3,29.4,9,10,0.29,1.04,Yenilikçilik
+HAYVAN_0650,Güvercin,Akşam,Ticari,66.8,23.6,1,8,0.68,1.97,Yenilikçilik
+HAYVAN_0651,Güvercin,Gece,Park,87.6,26.6,5,9,0.07,1.04,Sömürü
+HAYVAN_0652,Rakun,Akşam,Ticari,76.3,61.6,6,7,0.21,0.3,Sömürü
+HAYVAN_0653,Rakun,Gece,Ticari,65.6,2.2,5,3,0.26,1.99,Alışkanlık
+HAYVAN_0654,Sincap,Akşam,Konut,90.9,26.8,5,4,0.41,1.13,Alışkanlık
+HAYVAN_0655,Sincap,Gece,Park,58.6,35.9,5,8,0.3,0.89,Sömürü
+HAYVAN_0656,Rakun,Sabah,Park,70.2,13.0,1,3,0.08,1.41,Yenilikçilik
+HAYVAN_0657,Rakun,Gece,Konut,49.2,27.5,2,7,0.2,2.66,Alışkanlık
+HAYVAN_0658,Tilki,Sabah,Ticari,69.0,34.5,7,6,0.04,2.3,Alışkanlık
+HAYVAN_0659,Tilki,Akşam,Ticari,63.9,35.4,4,3,0.23,1.8,Alışkanlık
+HAYVAN_0660,Sincap,Gece,Konut,65.6,42.3,8,5,0.05,0.68,Sömürü
+HAYVAN_0661,Rakun,Akşam,Konut,68.7,46.5,1,8,0.26,3.27,Sömürü
+HAYVAN_0662,Sincap,Öğleden Sonra,Ticari,67.8,25.0,1,2,0.44,1.18,Sömürü
+HAYVAN_0663,Rakun,Gece,Endüstriyel,54.3,31.3,2,6,0.44,0.38,Alışkanlık
+HAYVAN_0664,Güvercin,Sabah,Ticari,61.2,8.7,3,8,0.23,0.07,Alışkanlık
+HAYVAN_0665,Güvercin,Öğleden Sonra,Ticari,65.1,29.2,2,8,0.08,0.34,Alışkanlık
+HAYVAN_0666,Sincap,Sabah,Endüstriyel,50.7,8.2,9,8,0.18,0.3,Sömürü
+HAYVAN_0667,Tilki,Sabah,Park,73.0,30.2,4,4,0.33,0.39,Alışkanlık
+HAYVAN_0668,Güvercin,Sabah,Endüstriyel,83.8,42.4,9,7,0.68,2.32,Yenilikçilik
+HAYVAN_0669,Güvercin,Akşam,Endüstriyel,68.0,36.2,1,9,0.2,1.49,Alışkanlık
+HAYVAN_0670,Tilki,Akşam,Endüstriyel,59.7,31.4,4,6,0.05,1.08,Kaçınma
+HAYVAN_0671,Rakun,Akşam,Konut,42.0,42.1,7,5,0.41,0.59,Yenilikçilik
+HAYVAN_0672,Rakun,Akşam,Ticari,49.8,46.1,1,10,0.37,0.02,Yenilikçilik
+HAYVAN_0673,Sincap,Akşam,Park,68.4,17.6,5,9,0.23,0.47,Alışkanlık
+HAYVAN_0674,Güvercin,Sabah,Park,77.6,47.8,8,2,0.17,1.58,Sömürü
+HAYVAN_0675,Güvercin,Öğleden Sonra,Park,62.8,18.7,10,6,0.03,0.87,Yenilikçilik
+HAYVAN_0676,Güvercin,Öğleden Sonra,Endüstriyel,50.1,23.3,8,7,0.26,1.29,Sömürü
+HAYVAN_0677,Sincap,Öğleden Sonra,Ticari,56.3,40.9,6,1,0.29,0.21,Sömürü
+HAYVAN_0678,Güvercin,Öğleden Sonra,Konut,59.3,32.7,3,4,0.42,0.73,Kaçınma
+HAYVAN_0679,Tilki,Akşam,Konut,45.7,29.7,7,6,0.09,5.84,Sömürü
+HAYVAN_0680,Güvercin,Gece,Ticari,61.9,32.6,4,5,0.19,0.25,Kaçınma
+HAYVAN_0681,Sincap,Öğleden Sonra,Konut,73.9,49.7,5,6,0.68,1.5,Sömürü
+HAYVAN_0682,Rakun,Gece,Endüstriyel,48.2,31.0,7,2,0.67,0.76,Yenilikçilik
+HAYVAN_0683,Güvercin,Gece,Park,59.4,41.2,6,7,0.36,1.74,Kaçınma
+HAYVAN_0684,Güvercin,Gece,Ticari,44.8,40.8,8,7,0.22,1.15,Sömürü
+HAYVAN_0685,Güvercin,Gece,Ticari,56.8,61.3,6,8,0.12,1.8,Yenilikçilik
+HAYVAN_0686,Sincap,Öğleden Sonra,Park,63.5,50.7,4,2,0.48,1.08,Alışkanlık
+HAYVAN_0687,Sincap,Öğleden Sonra,Konut,75.2,40.6,4,10,0.55,1.09,Alışkanlık
+HAYVAN_0688,Güvercin,Sabah,Ticari,69.6,40.8,5,8,0.5,1.41,Sömürü
+HAYVAN_0689,Rakun,Gece,Ticari,53.2,32.5,9,5,0.38,0.94,Kaçınma
+HAYVAN_0690,Rakun,Öğleden Sonra,Park,65.9,27.6,5,8,0.11,0.18,Yenilikçilik
+HAYVAN_0691,Güvercin,Sabah,Park,61.7,29.8,3,3,0.56,0.63,Yenilikçilik
+HAYVAN_0692,Güvercin,Sabah,Konut,64.9,30.4,3,1,0.05,0.4,Alışkanlık
+HAYVAN_0693,Güvercin,Sabah,Konut,63.0,23.3,9,5,0.4,1.02,Kaçınma
+HAYVAN_0694,Tilki,Öğleden Sonra,Endüstriyel,68.1,23.8,3,5,0.41,5.33,Yenilikçilik
+HAYVAN_0695,Güvercin,Akşam,Konut,66.8,29.0,10,9,0.51,0.21,Alışkanlık
+HAYVAN_0696,Sincap,Gece,Konut,73.7,25.1,6,7,0.2,0.9,Alışkanlık
+HAYVAN_0697,Sincap,Gece,Park,66.2,27.1,2,4,0.47,3.84,Yenilikçilik
+HAYVAN_0698,Rakun,Öğleden Sonra,Endüstriyel,81.9,27.5,3,9,0.28,0.31,Kaçınma
+HAYVAN_0699,Tilki,Gece,Endüstriyel,70.2,43.6,7,10,0.08,2.75,Sömürü
+HAYVAN_0700,Sincap,Gece,Ticari,79.8,41.9,10,2,0.13,0.05,Alışkanlık
+HAYVAN_0701,Sincap,Akşam,Park,72.2,45.4,7,5,0.16,0.5,Alışkanlık
+HAYVAN_0702,Güvercin,Öğleden Sonra,Ticari,58.3,48.7,10,4,0.33,0.68,Alışkanlık
+HAYVAN_0703,Tilki,Öğleden Sonra,Konut,77.4,19.2,3,8,0.15,2.37,Sömürü
+HAYVAN_0704,Rakun,Akşam,Ticari,76.8,30.4,10,10,0.38,3.03,Sömürü
+HAYVAN_0705,Sincap,Sabah,Konut,36.3,34.5,5,7,0.29,0.45,Alışkanlık
+HAYVAN_0706,Rakun,Sabah,Konut,59.5,36.6,1,2,0.52,0.32,Sömürü
+HAYVAN_0707,Tilki,Sabah,Endüstriyel,79.4,37.7,10,9,0.18,1.35,Kaçınma
+HAYVAN_0708,Sincap,Akşam,Endüstriyel,75.5,51.3,8,3,0.11,0.74,Alışkanlık
+HAYVAN_0709,Güvercin,Gece,Park,50.4,21.8,6,5,0.32,0.09,Sömürü
+HAYVAN_0710,Rakun,Gece,Park,73.6,33.5,4,7,0.17,0.71,Kaçınma
+HAYVAN_0711,Güvercin,Öğleden Sonra,Ticari,82.3,11.7,9,2,0.47,0.31,Alışkanlık
+HAYVAN_0712,Tilki,Öğleden Sonra,Ticari,71.1,36.3,9,8,0.04,0.98,Sömürü
+HAYVAN_0713,Tilki,Akşam,Konut,50.2,6.1,9,2,0.02,2.26,Yenilikçilik
+HAYVAN_0714,Rakun,Gece,Konut,57.2,35.4,1,4,0.21,0.04,Yenilikçilik
+HAYVAN_0715,Sincap,Sabah,Endüstriyel,69.0,48.6,10,6,0.12,0.84,Alışkanlık
+HAYVAN_0716,Tilki,Öğleden Sonra,Ticari,62.8,39.3,3,1,0.31,4.11,Sömürü
+HAYVAN_0717,Rakun,Akşam,Park,77.8,14.0,3,10,0.61,0.91,Alışkanlık
+HAYVAN_0718,Tilki,Gece,Park,72.3,18.4,3,6,0.13,1.02,Kaçınma
+HAYVAN_0719,Rakun,Akşam,Endüstriyel,84.6,39.3,10,2,0.28,1.58,Kaçınma
+HAYVAN_0720,Rakun,Öğleden Sonra,Konut,75.2,28.3,4,6,0.09,0.53,Alışkanlık
+HAYVAN_0721,Güvercin,Akşam,Park,70.5,-2.7,4,6,0.33,0.02,Sömürü
+HAYVAN_0722,Sincap,Gece,Ticari,61.9,51.3,4,6,0.21,2.4,Kaçınma
+HAYVAN_0723,Sincap,Akşam,Ticari,79.0,32.8,1,3,0.64,0.05,Alışkanlık
+HAYVAN_0724,Rakun,Sabah,Konut,65.1,8.6,4,7,0.21,2.2,Alışkanlık
+HAYVAN_0725,Tilki,Akşam,Endüstriyel,54.7,33.5,10,2,0.45,0.94,Alışkanlık
+HAYVAN_0726,Tilki,Gece,Park,65.5,63.2,1,2,0.32,4.82,Yenilikçilik
+HAYVAN_0727,Güvercin,Sabah,Konut,64.1,27.8,10,10,0.54,3.69,Yenilikçilik
+HAYVAN_0728,Sincap,Gece,Ticari,55.1,27.6,6,10,0.33,1.58,Sömürü
+HAYVAN_0729,Güvercin,Akşam,Park,73.3,20.4,10,4,0.1,1.19,Yenilikçilik
+HAYVAN_0730,Rakun,Sabah,Konut,63.6,39.7,2,9,0.11,0.23,Kaçınma
+HAYVAN_0731,Güvercin,Öğleden Sonra,Endüstriyel,69.0,33.8,10,9,0.39,0.23,Alışkanlık
+HAYVAN_0732,Tilki,Öğleden Sonra,Ticari,57.2,42.2,8,8,0.12,0.48,Alışkanlık
+HAYVAN_0733,Rakun,Sabah,Park,63.4,19.1,8,5,0.58,3.03,Alışkanlık
+HAYVAN_0734,Güvercin,Gece,Endüstriyel,72.7,40.9,3,1,0.52,2.62,Alışkanlık
+HAYVAN_0735,Güvercin,Öğleden Sonra,Park,62.5,12.3,5,5,0.04,0.13,Kaçınma
+HAYVAN_0736,Sincap,Akşam,Park,61.3,37.4,1,5,0.25,0.25,Kaçınma
+HAYVAN_0737,Tilki,Sabah,Park,86.8,18.1,5,4,0.32,1.81,Kaçınma
+HAYVAN_0738,Rakun,Gece,Park,68.2,30.6,3,1,0.16,1.05,Alışkanlık
+HAYVAN_0739,Güvercin,Gece,Konut,72.3,6.6,3,5,0.13,5.36,Yenilikçilik
+HAYVAN_0740,Güvercin,Sabah,Endüstriyel,72.5,31.5,10,4,0.29,1.4,Sömürü
+HAYVAN_0741,Tilki,Gece,Endüstriyel,66.0,29.7,10,9,0.29,0.52,Sömürü
+HAYVAN_0742,Tilki,Öğleden Sonra,Park,70.3,7.1,3,8,0.04,0.37,Kaçınma
+HAYVAN_0743,Güvercin,Sabah,Ticari,55.3,56.0,5,3,0.21,1.23,Alışkanlık
+HAYVAN_0744,Güvercin,Öğleden Sonra,Konut,79.5,39.3,1,2,0.26,2.79,Sömürü
+HAYVAN_0745,Tilki,Gece,Konut,77.5,13.7,10,2,0.5,1.23,Alışkanlık
+HAYVAN_0746,Güvercin,Sabah,Endüstriyel,66.9,14.9,10,1,0.09,1.63,Yenilikçilik
+HAYVAN_0747,Sincap,Öğleden Sonra,Ticari,65.1,26.3,3,2,0.23,2.25,Alışkanlık
+HAYVAN_0748,Sincap,Öğleden Sonra,Ticari,52.6,21.5,7,8,0.49,2.21,Sömürü
+HAYVAN_0749,Sincap,Gece,Ticari,75.3,28.6,4,2,0.38,0.51,Sömürü
+HAYVAN_0750,Tilki,Akşam,Endüstriyel,62.4,-2.5,3,7,0.44,0.08,Kaçınma
+HAYVAN_0751,Rakun,Gece,Endüstriyel,71.1,55.4,9,5,0.23,0.84,Alışkanlık
+HAYVAN_0752,Güvercin,Akşam,Park,50.6,19.2,2,10,0.26,0.77,Alışkanlık
+HAYVAN_0753,Güvercin,Sabah,Endüstriyel,71.3,48.2,1,3,0.24,1.75,Sömürü
+HAYVAN_0754,Tilki,Öğleden Sonra,Ticari,63.2,27.5,7,6,0.38,2.12,Sömürü
+HAYVAN_0755,Güvercin,Akşam,Park,65.1,66.7,1,5,0.17,3.59,Sömürü
+HAYVAN_0756,Tilki,Sabah,Konut,50.8,42.9,10,8,0.53,0.82,Alışkanlık
+HAYVAN_0757,Rakun,Öğleden Sonra,Park,71.8,45.9,3,2,0.4,2.95,Kaçınma
+HAYVAN_0758,Tilki,Akşam,Konut,58.9,47.9,10,1,0.18,1.89,Alışkanlık
+HAYVAN_0759,Güvercin,Öğleden Sonra,Konut,64.5,31.3,1,8,0.25,1.46,Kaçınma
+HAYVAN_0760,Sincap,Akşam,Ticari,73.0,32.3,2,9,0.06,2.32,Yenilikçilik
+HAYVAN_0761,Güvercin,Öğleden Sonra,Park,64.1,28.1,3,3,0.43,4.02,Kaçınma
+HAYVAN_0762,Tilki,Sabah,Konut,84.9,35.4,6,5,0.09,3.89,Yenilikçilik
+HAYVAN_0763,Güvercin,Akşam,Konut,56.0,31.1,5,10,0.48,2.57,Alışkanlık
+HAYVAN_0764,Sincap,Öğleden Sonra,Park,67.4,35.4,6,3,0.3,0.56,Kaçınma
+HAYVAN_0765,Tilki,Akşam,Konut,69.1,18.1,7,8,0.17,0.54,Sömürü
+HAYVAN_0766,Güvercin,Akşam,Park,54.8,23.8,9,10,0.23,0.73,Kaçınma
+HAYVAN_0767,Rakun,Gece,Park,65.9,38.3,4,7,0.27,1.26,Sömürü
+HAYVAN_0768,Sincap,Öğleden Sonra,Endüstriyel,63.1,30.3,1,8,0.33,2.5,Sömürü
+HAYVAN_0769,Rakun,Sabah,Konut,67.3,37.3,3,10,0.44,1.55,Sömürü
+HAYVAN_0770,Tilki,Akşam,Park,69.5,40.1,8,4,0.48,5.89,Alışkanlık
+HAYVAN_0771,Sincap,Öğleden Sonra,Ticari,79.0,43.3,8,10,0.24,1.14,Alışkanlık
+HAYVAN_0772,Rakun,Sabah,Ticari,67.9,37.4,5,5,0.11,0.1,Alışkanlık
+HAYVAN_0773,Rakun,Gece,Park,70.5,26.5,2,10,0.16,0.14,Yenilikçilik
+HAYVAN_0774,Sincap,Gece,Konut,80.0,17.0,8,9,0.28,3.25,Alışkanlık
+HAYVAN_0775,Sincap,Öğleden Sonra,Konut,49.2,47.4,8,5,0.36,1.44,Alışkanlık
+HAYVAN_0776,Güvercin,Öğleden Sonra,Ticari,62.4,19.6,4,3,0.48,2.03,Sömürü
+HAYVAN_0777,Güvercin,Akşam,Park,65.4,30.0,8,7,0.06,0.64,Kaçınma
+HAYVAN_0778,Rakun,Öğleden Sonra,Ticari,49.4,54.3,8,10,0.31,0.79,Yenilikçilik
+HAYVAN_0779,Sincap,Gece,Endüstriyel,65.8,18.1,10,6,0.06,0.74,Sömürü
+HAYVAN_0780,Sincap,Öğleden Sonra,Endüstriyel,41.4,25.9,1,9,0.09,1.92,Alışkanlık
+HAYVAN_0781,Sincap,Sabah,Ticari,72.1,31.8,1,9,0.27,0.07,Kaçınma
+HAYVAN_0782,Güvercin,Gece,Park,50.2,3.2,3,10,0.71,0.16,Yenilikçilik
+HAYVAN_0783,Rakun,Akşam,Endüstriyel,52.5,14.0,3,7,0.25,3.81,Alışkanlık
+HAYVAN_0784,Rakun,Öğleden Sonra,Endüstriyel,70.2,48.8,7,4,0.08,3.02,Sömürü
+HAYVAN_0785,Güvercin,Akşam,Konut,48.3,36.8,7,3,0.32,1.95,Alışkanlık
+HAYVAN_0786,Sincap,Sabah,Konut,85.5,42.4,3,9,0.35,2.9,Sömürü
+HAYVAN_0787,Sincap,Gece,Park,66.2,33.8,5,1,0.27,0.76,Kaçınma
+HAYVAN_0788,Sincap,Gece,Konut,64.0,0.7,9,10,0.5,3.5,Sömürü
+HAYVAN_0789,Rakun,Sabah,Park,77.0,14.7,1,1,0.13,2.67,Yenilikçilik
+HAYVAN_0790,Güvercin,Öğleden Sonra,Endüstriyel,64.2,-3.4,1,7,0.51,0.47,Alışkanlık
+HAYVAN_0791,Rakun,Akşam,Konut,67.4,39.6,6,3,0.23,0.93,Kaçınma
+HAYVAN_0792,Rakun,Öğleden Sonra,Park,63.4,70.7,5,9,0.36,1.14,Sömürü
+HAYVAN_0793,Tilki,Akşam,Konut,60.0,6.5,2,1,0.17,1.34,Alışkanlık
+HAYVAN_0794,Güvercin,Akşam,Endüstriyel,68.7,46.1,8,1,0.15,0.88,Alışkanlık
+HAYVAN_0795,Güvercin,Gece,Ticari,70.3,46.3,2,8,0.15,0.38,Kaçınma
+HAYVAN_0796,Rakun,Gece,Endüstriyel,52.3,32.8,8,5,0.14,2.52,Kaçınma
+HAYVAN_0797,Güvercin,Gece,Konut,56.2,9.4,1,6,0.14,0.32,Alışkanlık
+HAYVAN_0798,Güvercin,Gece,Konut,58.4,17.0,4,10,0.2,0.52,Yenilikçilik
+HAYVAN_0799,Güvercin,Gece,Endüstriyel,64.7,-0.3,5,9,0.65,0.63,Alışkanlık
+HAYVAN_0800,Güvercin,Gece,Park,68.5,28.1,2,9,0.26,0.14,Alışkanlık
+HAYVAN_0801,Güvercin,Sabah,Ticari,86.6,33.3,1,7,0.42,0.07,Kaçınma
+HAYVAN_0802,Güvercin,Öğleden Sonra,Endüstriyel,67.8,42.3,9,7,0.14,1.01,Yenilikçilik
+HAYVAN_0803,Rakun,Akşam,Ticari,63.3,26.9,9,3,0.25,1.09,Sömürü
+HAYVAN_0804,Sincap,Sabah,Endüstriyel,57.9,17.3,10,9,0.4,1.77,Alışkanlık
+HAYVAN_0805,Sincap,Sabah,Endüstriyel,74.9,19.6,6,2,0.26,2.26,Kaçınma
+HAYVAN_0806,Güvercin,Gece,Endüstriyel,64.9,28.0,1,9,0.07,1.88,Kaçınma
+HAYVAN_0807,Güvercin,Akşam,Endüstriyel,68.4,34.5,3,9,0.22,2.95,Alışkanlık
+HAYVAN_0808,Sincap,Öğleden Sonra,Konut,65.0,50.9,1,6,0.28,1.74,Alışkanlık
+HAYVAN_0809,Güvercin,Öğleden Sonra,Endüstriyel,70.5,60.7,8,9,0.34,0.19,Sömürü
+HAYVAN_0810,Tilki,Öğleden Sonra,Park,69.8,29.9,9,9,0.65,1.92,Sömürü
+HAYVAN_0811,Tilki,Öğleden Sonra,Konut,68.7,13.8,10,5,0.2,1.62,Yenilikçilik
+HAYVAN_0812,Güvercin,Sabah,Park,65.0,48.4,4,4,0.55,0.38,Alışkanlık
+HAYVAN_0813,Rakun,Öğleden Sonra,Ticari,65.9,68.4,1,9,0.54,1.86,Yenilikçilik
+HAYVAN_0814,Sincap,Gece,Endüstriyel,68.8,18.7,6,6,0.41,0.38,Alışkanlık
+HAYVAN_0815,Rakun,Öğleden Sonra,Endüstriyel,45.8,22.5,5,3,0.06,0.24,Kaçınma
+HAYVAN_0816,Güvercin,Akşam,Konut,64.7,28.2,1,9,0.09,1.15,Yenilikçilik
+HAYVAN_0817,Rakun,Akşam,Park,74.8,30.3,6,7,0.23,2.52,Alışkanlık
+HAYVAN_0818,Güvercin,Akşam,Park,60.2,19.9,3,8,0.39,2.47,Alışkanlık
+HAYVAN_0819,Sincap,Gece,Konut,44.1,9.2,10,2,0.07,0.87,Alışkanlık
+HAYVAN_0820,Güvercin,Akşam,Endüstriyel,51.1,39.2,8,10,0.18,0.07,Alışkanlık
+HAYVAN_0821,Rakun,Gece,Ticari,65.8,28.0,8,7,0.13,0.28,Kaçınma
+HAYVAN_0822,Rakun,Gece,Park,57.8,46.9,7,2,0.3,0.73,Alışkanlık
+HAYVAN_0823,Sincap,Gece,Park,66.3,38.2,4,5,0.57,1.61,Yenilikçilik
+HAYVAN_0824,Sincap,Sabah,Endüstriyel,64.8,45.3,6,8,0.13,1.42,Sömürü
+HAYVAN_0825,Güvercin,Öğleden Sonra,Konut,60.3,30.9,8,10,0.23,1.56,Kaçınma
+HAYVAN_0826,Tilki,Öğleden Sonra,Park,55.9,40.5,1,6,0.12,0.82,Alışkanlık
+HAYVAN_0827,Rakun,Sabah,Park,67.0,19.1,9,5,0.57,0.03,Alışkanlık
+HAYVAN_0828,Tilki,Gece,Ticari,65.7,37.5,5,3,0.48,0.2,Sömürü
+HAYVAN_0829,Güvercin,Sabah,Ticari,63.8,45.2,4,4,0.38,0.78,Sömürü
+HAYVAN_0830,Sincap,Sabah,Park,73.7,49.9,2,9,0.32,2.43,Sömürü
+HAYVAN_0831,Güvercin,Gece,Konut,67.0,25.6,8,5,0.12,3.11,Kaçınma
+HAYVAN_0832,Sincap,Sabah,Ticari,59.0,39.0,10,10,0.16,0.12,Yenilikçilik
+HAYVAN_0833,Güvercin,Öğleden Sonra,Endüstriyel,61.4,49.6,9,6,0.3,1.9,Kaçınma
+HAYVAN_0834,Güvercin,Sabah,Endüstriyel,64.4,6.7,3,10,0.56,7.02,Kaçınma
+HAYVAN_0835,Tilki,Öğleden Sonra,Endüstriyel,66.2,24.7,1,2,0.34,1.68,Sömürü
+HAYVAN_0836,Rakun,Akşam,Ticari,78.4,38.8,5,1,0.2,6.34,Kaçınma
+HAYVAN_0837,Rakun,Akşam,Ticari,81.9,25.8,4,4,0.23,1.35,Alışkanlık
+HAYVAN_0838,Rakun,Sabah,Endüstriyel,60.3,20.2,10,1,0.6,0.04,Kaçınma
+HAYVAN_0839,Sincap,Öğleden Sonra,Ticari,54.8,36.6,7,5,0.22,2.49,Sömürü
+HAYVAN_0840,Güvercin,Akşam,Endüstriyel,59.6,23.0,3,2,0.37,0.34,Sömürü
+HAYVAN_0841,Tilki,Akşam,Endüstriyel,69.2,31.2,7,8,0.17,1.42,Sömürü
+HAYVAN_0842,Güvercin,Sabah,Konut,73.3,6.9,6,5,0.04,1.89,Yenilikçilik
+HAYVAN_0843,Güvercin,Öğleden Sonra,Park,60.9,23.1,1,7,0.47,4.06,Yenilikçilik
+HAYVAN_0844,Güvercin,Sabah,Konut,55.9,34.4,2,2,0.26,0.31,Alışkanlık
+HAYVAN_0845,Sincap,Öğleden Sonra,Endüstriyel,68.8,28.7,5,8,0.18,1.18,Kaçınma
+HAYVAN_0846,Tilki,Gece,Ticari,71.2,29.5,6,2,0.09,2.25,Yenilikçilik
+HAYVAN_0847,Rakun,Öğleden Sonra,Park,75.3,34.9,2,7,0.41,2.2,Kaçınma
+HAYVAN_0848,Rakun,Öğleden Sonra,Ticari,58.6,46.6,2,2,0.19,1.94,Yenilikçilik
+HAYVAN_0849,Rakun,Öğleden Sonra,Park,68.3,26.5,3,5,0.33,1.2,Yenilikçilik
+HAYVAN_0850,Güvercin,Sabah,Konut,48.7,29.8,3,1,0.76,0.07,Kaçınma
+HAYVAN_0851,Güvercin,Akşam,Park,63.9,31.3,9,2,0.04,0.73,Yenilikçilik
+HAYVAN_0852,Sincap,Öğleden Sonra,Endüstriyel,72.2,23.0,2,1,0.36,1.83,Sömürü
+HAYVAN_0853,Tilki,Öğleden Sonra,Park,79.8,18.4,6,8,0.24,1.02,Kaçınma
+HAYVAN_0854,Rakun,Öğleden Sonra,Park,68.0,42.8,1,5,0.46,0.82,Alışkanlık
+HAYVAN_0855,Sincap,Gece,Endüstriyel,62.6,12.7,10,3,0.28,0.69,Kaçınma
+HAYVAN_0856,Güvercin,Sabah,Endüstriyel,50.9,39.1,3,1,0.17,1.15,Alışkanlık
+HAYVAN_0857,Güvercin,Öğleden Sonra,Endüstriyel,67.3,27.0,7,4,0.13,0.31,Alışkanlık
+HAYVAN_0858,Güvercin,Gece,Konut,71.3,25.1,6,7,0.37,0.02,Alışkanlık
+HAYVAN_0859,Tilki,Akşam,Endüstriyel,75.1,35.0,6,1,0.54,2.58,Kaçınma
+HAYVAN_0860,Sincap,Gece,Konut,67.4,37.3,8,3,0.18,4.79,Alışkanlık
+HAYVAN_0861,Tilki,Gece,Konut,55.4,14.6,6,5,0.29,2.04,Sömürü
+HAYVAN_0862,Sincap,Gece,Konut,70.5,29.6,2,10,0.11,0.25,Yenilikçilik
+HAYVAN_0863,Tilki,Öğleden Sonra,Endüstriyel,81.9,23.5,2,2,0.2,0.42,Alışkanlık
+HAYVAN_0864,Sincap,Akşam,Park,62.4,19.0,5,2,0.47,0.1,Kaçınma
+HAYVAN_0865,Rakun,Akşam,Ticari,57.0,-1.2,3,7,0.25,1.33,Kaçınma
+HAYVAN_0866,Tilki,Gece,Konut,61.7,42.9,5,3,0.59,3.8,Sömürü
+HAYVAN_0867,Tilki,Sabah,Konut,64.9,43.5,5,1,0.22,3.87,Yenilikçilik
+HAYVAN_0868,Rakun,Gece,Endüstriyel,59.8,12.6,5,1,0.31,0.23,Alışkanlık
+HAYVAN_0869,Sincap,Akşam,Endüstriyel,72.1,28.5,1,2,0.18,1.5,Yenilikçilik
+HAYVAN_0870,Tilki,Öğleden Sonra,Konut,69.3,11.8,5,2,0.23,0.18,Sömürü
+HAYVAN_0871,Rakun,Akşam,Konut,61.7,24.8,4,4,0.2,0.66,Kaçınma
+HAYVAN_0872,Güvercin,Öğleden Sonra,Konut,64.8,20.5,1,10,0.3,1.83,Kaçınma
+HAYVAN_0873,Güvercin,Akşam,Ticari,49.6,50.4,7,9,0.54,0.07,Sömürü
+HAYVAN_0874,Rakun,Öğleden Sonra,Konut,68.2,9.5,2,8,0.38,0.84,Alışkanlık
+HAYVAN_0875,Rakun,Sabah,Konut,51.1,3.3,1,9,0.21,0.19,Yenilikçilik
+HAYVAN_0876,Güvercin,Öğleden Sonra,Park,62.2,24.8,8,7,0.44,4.27,Sömürü
+HAYVAN_0877,Tilki,Gece,Ticari,60.4,25.7,3,1,0.35,1.31,Sömürü
+HAYVAN_0878,Güvercin,Sabah,Park,69.7,59.5,9,2,0.19,1.12,Yenilikçilik
+HAYVAN_0879,Güvercin,Öğleden Sonra,Endüstriyel,60.6,18.6,3,7,0.2,1.12,Yenilikçilik
+HAYVAN_0880,Tilki,Gece,Konut,64.5,52.2,9,3,0.38,0.74,Kaçınma
+HAYVAN_0881,Tilki,Akşam,Endüstriyel,80.0,37.6,5,6,0.36,1.83,Kaçınma
+HAYVAN_0882,Tilki,Öğleden Sonra,Ticari,49.3,54.8,9,2,0.28,0.7,Sömürü
+HAYVAN_0883,Rakun,Gece,Park,66.1,34.2,8,9,0.13,0.84,Yenilikçilik
+HAYVAN_0884,Güvercin,Akşam,Park,73.6,5.8,3,4,0.15,0.79,Sömürü
+HAYVAN_0885,Güvercin,Öğleden Sonra,Ticari,58.7,16.1,4,6,0.37,0.63,Alışkanlık
+HAYVAN_0886,Tilki,Öğleden Sonra,Konut,65.2,38.2,1,9,0.18,1.06,Kaçınma
+HAYVAN_0887,Sincap,Öğleden Sonra,Endüstriyel,51.4,16.8,8,8,0.52,0.26,Alışkanlık
+HAYVAN_0888,Güvercin,Gece,Ticari,48.9,65.9,9,6,0.14,1.16,Alışkanlık
+HAYVAN_0889,Güvercin,Sabah,Park,72.2,2.6,5,4,0.27,5.32,Alışkanlık
+HAYVAN_0890,Tilki,Akşam,Konut,61.7,20.6,4,3,0.34,0.44,Sömürü
+HAYVAN_0891,Tilki,Sabah,Park,51.9,37.1,4,3,0.12,1.42,Kaçınma
+HAYVAN_0892,Güvercin,Sabah,Konut,60.3,30.3,10,10,0.3,1.29,Yenilikçilik
+HAYVAN_0893,Güvercin,Sabah,Endüstriyel,71.0,23.0,4,6,0.59,0.47,Sömürü
+HAYVAN_0894,Rakun,Sabah,Konut,70.5,51.8,9,7,0.22,1.86,Alışkanlık
+HAYVAN_0895,Rakun,Öğleden Sonra,Endüstriyel,75.5,31.2,6,7,0.33,0.56,Sömürü
+HAYVAN_0896,Rakun,Gece,Endüstriyel,60.0,46.2,7,5,0.39,0.52,Alışkanlık
+HAYVAN_0897,Rakun,Öğleden Sonra,Park,58.7,23.7,8,4,0.31,1.77,Sömürü
+HAYVAN_0898,Sincap,Gece,Ticari,68.3,45.6,3,3,0.15,1.12,Alışkanlık
+HAYVAN_0899,Güvercin,Gece,Ticari,75.0,33.5,10,7,0.21,3.27,Yenilikçilik
+HAYVAN_0900,Rakun,Sabah,Endüstriyel,61.3,5.7,2,7,0.5,0.23,Sömürü
+HAYVAN_0901,Sincap,Sabah,Ticari,74.6,11.8,6,2,0.68,2.17,Yenilikçilik
+HAYVAN_0902,Rakun,Sabah,Ticari,61.7,46.9,10,9,0.76,1.77,Sömürü
+HAYVAN_0903,Güvercin,Gece,Park,85.4,30.0,1,4,0.5,0.25,Alışkanlık
+HAYVAN_0904,Rakun,Akşam,Konut,47.8,47.2,7,6,0.12,0.18,Alışkanlık
+HAYVAN_0905,Sincap,Akşam,Konut,80.3,40.9,3,6,0.18,0.15,Kaçınma
+HAYVAN_0906,Rakun,Öğleden Sonra,Ticari,50.0,13.2,8,5,0.38,2.2,Sömürü
+HAYVAN_0907,Tilki,Akşam,Ticari,77.2,12.2,4,3,0.22,2.0,Sömürü
+HAYVAN_0908,Sincap,Sabah,Park,65.9,28.5,10,4,0.28,2.61,Sömürü
+HAYVAN_0909,Tilki,Gece,Park,60.5,32.5,6,9,0.43,2.02,Kaçınma
+HAYVAN_0910,Sincap,Akşam,Endüstriyel,55.9,19.6,1,1,0.04,3.59,Kaçınma
+HAYVAN_0911,Rakun,Gece,Konut,55.7,37.7,8,10,0.3,0.05,Sömürü
+HAYVAN_0912,Tilki,Sabah,Endüstriyel,71.8,26.8,8,1,0.35,0.15,Alışkanlık
+HAYVAN_0913,Tilki,Akşam,Park,69.6,18.6,3,1,0.53,0.08,Alışkanlık
+HAYVAN_0914,Güvercin,Akşam,Park,63.1,33.8,1,1,0.55,1.47,Alışkanlık
+HAYVAN_0915,Sincap,Gece,Park,64.7,20.4,10,9,0.13,0.12,Sömürü
+HAYVAN_0916,Tilki,Akşam,Endüstriyel,56.3,8.2,9,4,0.17,2.79,Kaçınma
+HAYVAN_0917,Sincap,Öğleden Sonra,Endüstriyel,63.7,53.6,4,9,0.52,3.17,Sömürü
+HAYVAN_0918,Tilki,Akşam,Park,73.9,0.5,10,1,0.29,3.0,Alışkanlık
+HAYVAN_0919,Güvercin,Öğleden Sonra,Konut,55.9,5.1,3,7,0.42,3.33,Sömürü
+HAYVAN_0920,Güvercin,Gece,Park,70.2,42.4,9,10,0.41,5.54,Alışkanlık
+HAYVAN_0921,Güvercin,Gece,Ticari,60.4,34.0,1,3,0.34,0.51,Kaçınma
+HAYVAN_0922,Rakun,Gece,Endüstriyel,49.7,21.5,8,3,0.13,1.19,Kaçınma
+HAYVAN_0923,Güvercin,Gece,Park,75.6,59.1,8,9,0.24,0.3,Sömürü
+HAYVAN_0924,Güvercin,Öğleden Sonra,Park,51.3,24.1,10,5,0.19,0.01,Alışkanlık
+HAYVAN_0925,Rakun,Akşam,Endüstriyel,60.4,28.3,6,2,0.08,0.75,Alışkanlık
+HAYVAN_0926,Rakun,Sabah,Endüstriyel,75.7,30.2,9,5,0.06,0.06,Alışkanlık
+HAYVAN_0927,Güvercin,Sabah,Endüstriyel,57.1,39.2,10,9,0.83,2.52,Alışkanlık
+HAYVAN_0928,Rakun,Sabah,Park,74.4,40.4,9,2,0.12,3.53,Sömürü
+HAYVAN_0929,Sincap,Gece,Endüstriyel,60.5,50.4,5,7,0.65,0.56,Yenilikçilik
+HAYVAN_0930,Güvercin,Akşam,Endüstriyel,64.1,23.0,3,2,0.35,0.21,Alışkanlık
+HAYVAN_0931,Güvercin,Öğleden Sonra,Konut,83.8,29.3,9,5,0.34,0.73,Alışkanlık
+HAYVAN_0932,Rakun,Akşam,Konut,76.4,25.5,2,1,0.04,0.99,Yenilikçilik
+HAYVAN_0933,Güvercin,Öğleden Sonra,Konut,65.9,10.1,8,9,0.33,0.78,Kaçınma
+HAYVAN_0934,Rakun,Sabah,Ticari,58.5,25.1,10,2,0.13,1.42,Kaçınma
+HAYVAN_0935,Rakun,Akşam,Endüstriyel,65.3,35.0,3,4,0.29,1.68,Yenilikçilik
+HAYVAN_0936,Güvercin,Gece,Endüstriyel,81.5,31.7,5,9,0.36,3.31,Sömürü
+HAYVAN_0937,Sincap,Sabah,Park,86.7,51.4,3,4,0.41,2.07,Alışkanlık
+HAYVAN_0938,Güvercin,Akşam,Ticari,58.8,33.0,8,3,0.11,1.93,Sömürü
+HAYVAN_0939,Rakun,Sabah,Konut,79.4,15.1,10,6,0.23,0.21,Sömürü
+HAYVAN_0940,Rakun,Akşam,Endüstriyel,49.2,22.3,8,5,0.1,1.33,Kaçınma
+HAYVAN_0941,Tilki,Gece,Ticari,70.9,17.8,1,1,0.21,2.59,Alışkanlık
+HAYVAN_0942,Tilki,Öğleden Sonra,Konut,68.7,21.0,7,9,0.05,0.61,Alışkanlık
+HAYVAN_0943,Tilki,Öğleden Sonra,Park,75.4,28.7,8,10,0.26,4.09,Yenilikçilik
+HAYVAN_0944,Güvercin,Gece,Konut,56.7,41.4,9,4,0.18,2.12,Sömürü
+HAYVAN_0945,Güvercin,Sabah,Ticari,66.5,43.0,2,7,0.16,0.61,Alışkanlık
+HAYVAN_0946,Sincap,Öğleden Sonra,Ticari,46.4,16.3,1,8,0.23,0.35,Yenilikçilik
+HAYVAN_0947,Güvercin,Gece,Park,58.7,36.3,10,8,0.07,1.11,Yenilikçilik
+HAYVAN_0948,Tilki,Akşam,Endüstriyel,64.8,29.0,3,10,0.34,0.34,Kaçınma
+HAYVAN_0949,Güvercin,Öğleden Sonra,Park,66.9,24.7,2,1,0.24,0.89,Sömürü
+HAYVAN_0950,Güvercin,Sabah,Endüstriyel,92.9,20.0,8,3,0.56,3.21,Sömürü
+HAYVAN_0951,Rakun,Sabah,Ticari,59.9,19.0,9,5,0.31,0.1,Yenilikçilik
+HAYVAN_0952,Rakun,Sabah,Park,65.2,22.0,1,8,0.39,0.07,Sömürü
+HAYVAN_0953,Sincap,Akşam,Konut,53.5,45.7,4,10,0.16,1.79,Alışkanlık
+HAYVAN_0954,Güvercin,Sabah,Endüstriyel,46.1,44.1,9,10,0.1,0.62,Sömürü
+HAYVAN_0955,Sincap,Sabah,Endüstriyel,74.0,42.4,3,2,0.3,1.09,Yenilikçilik
+HAYVAN_0956,Güvercin,Gece,Park,74.1,-4.1,9,9,0.23,1.48,Yenilikçilik
+HAYVAN_0957,Rakun,Öğleden Sonra,Park,51.2,48.7,1,2,0.07,1.33,Alışkanlık
+HAYVAN_0958,Güvercin,Öğleden Sonra,Park,48.1,34.6,6,9,0.21,2.05,Kaçınma
+HAYVAN_0959,Güvercin,Gece,Endüstriyel,58.6,43.0,1,4,0.28,1.37,Sömürü
+HAYVAN_0960,Tilki,Gece,Ticari,81.7,27.4,4,9,0.26,0.54,Alışkanlık
+HAYVAN_0961,Rakun,Sabah,Ticari,50.1,32.8,3,4,0.06,1.85,Yenilikçilik
+HAYVAN_0962,Tilki,Akşam,Konut,71.8,50.0,8,5,0.61,0.44,Alışkanlık
+HAYVAN_0963,Güvercin,Öğleden Sonra,Konut,66.3,45.2,3,8,0.11,0.79,Alışkanlık
+HAYVAN_0964,Güvercin,Sabah,Ticari,62.0,16.1,7,9,0.07,0.89,Alışkanlık
+HAYVAN_0965,Güvercin,Akşam,Park,59.0,18.1,1,3,0.47,2.97,Alışkanlık
+HAYVAN_0966,Güvercin,Öğleden Sonra,Park,67.4,36.7,1,4,0.3,3.49,Alışkanlık
+HAYVAN_0967,Güvercin,Sabah,Endüstriyel,61.9,33.0,10,10,0.16,0.76,Sömürü
+HAYVAN_0968,Güvercin,Sabah,Endüstriyel,61.0,16.7,9,6,0.81,1.03,Sömürü
+HAYVAN_0969,Güvercin,Gece,Konut,62.9,29.1,6,8,0.47,0.36,Yenilikçilik
+HAYVAN_0970,Güvercin,Akşam,Endüstriyel,76.1,19.8,9,9,0.28,1.83,Alışkanlık
+HAYVAN_0971,Güvercin,Sabah,Endüstriyel,67.1,38.8,1,8,0.51,1.33,Kaçınma
+HAYVAN_0972,Tilki,Sabah,Konut,65.7,64.1,6,9,0.16,1.52,Sömürü
+HAYVAN_0973,Rakun,Sabah,Endüstriyel,78.8,16.4,10,8,0.28,1.31,Alışkanlık
+HAYVAN_0974,Güvercin,Öğleden Sonra,Ticari,62.3,36.6,2,3,0.1,0.69,Sömürü
+HAYVAN_0975,Güvercin,Gece,Endüstriyel,79.3,36.3,9,3,0.38,0.45,Alışkanlık
+HAYVAN_0976,Rakun,Sabah,Ticari,58.2,27.0,4,1,0.16,3.4,Yenilikçilik
+HAYVAN_0977,Güvercin,Sabah,Park,70.3,24.3,10,3,0.44,3.32,Alışkanlık
+HAYVAN_0978,Rakun,Gece,Ticari,61.8,24.8,9,1,0.36,0.07,Sömürü
+HAYVAN_0979,Güvercin,Akşam,Konut,64.3,8.0,10,5,0.14,0.0,Yenilikçilik
+HAYVAN_0980,Sincap,Gece,Endüstriyel,58.6,0.4,6,9,0.37,0.39,Kaçınma
+HAYVAN_0981,Güvercin,Gece,Endüstriyel,62.0,17.1,6,6,0.08,2.34,Alışkanlık
+HAYVAN_0982,Güvercin,Sabah,Park,58.0,20.9,6,9,0.09,0.05,Sömürü
+HAYVAN_0983,Rakun,Sabah,Park,69.0,41.2,1,8,0.29,1.89,Yenilikçilik
+HAYVAN_0984,Güvercin,Gece,Konut,56.8,13.5,9,10,0.2,1.14,Sömürü
+HAYVAN_0985,Tilki,Sabah,Park,70.4,22.1,7,8,0.23,0.52,Sömürü
+HAYVAN_0986,Güvercin,Gece,Endüstriyel,88.5,46.1,7,9,0.09,0.05,Sömürü
+HAYVAN_0987,Rakun,Sabah,Konut,49.4,41.9,7,8,0.6,0.57,Yenilikçilik
+HAYVAN_0988,Güvercin,Öğleden Sonra,Endüstriyel,41.3,37.2,3,5,0.46,0.5,Kaçınma
+HAYVAN_0989,Sincap,Sabah,Park,55.1,46.6,3,6,0.32,0.62,Kaçınma
+HAYVAN_0990,Rakun,Akşam,Ticari,72.4,69.8,5,6,0.68,2.08,Alışkanlık
+HAYVAN_0991,Güvercin,Öğleden Sonra,Konut,57.9,28.5,6,5,0.62,1.83,Alışkanlık
+HAYVAN_0992,Rakun,Gece,Ticari,70.8,39.2,4,2,0.13,2.1,Yenilikçilik
+HAYVAN_0993,Güvercin,Sabah,Endüstriyel,74.5,28.1,3,4,0.07,0.95,Yenilikçilik
+HAYVAN_0994,Rakun,Gece,Endüstriyel,62.5,27.3,1,1,0.37,1.12,Sömürü
+HAYVAN_0995,Tilki,Akşam,Endüstriyel,73.8,16.5,2,4,0.36,1.41,Yenilikçilik
+HAYVAN_0996,Güvercin,Gece,Endüstriyel,42.3,55.4,6,10,0.63,0.95,Alışkanlık
+HAYVAN_0997,Tilki,Akşam,Park,73.3,32.9,6,10,0.43,0.07,Yenilikçilik
+HAYVAN_0998,Güvercin,Öğleden Sonra,Konut,73.0,53.0,8,4,0.23,2.74,Kaçınma
+HAYVAN_0999,Rakun,Akşam,Konut,64.0,35.8,4,3,0.18,3.52,Alışkanlık
+HAYVAN_1000,Güvercin,Öğleden Sonra,Endüstriyel,75.0,17.0,4,9,0.26,2.77,Kaçınma
